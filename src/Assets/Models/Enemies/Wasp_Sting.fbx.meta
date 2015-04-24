@@ -1,0 +1,104 @@
+fileFormatVersion: 1
+guid: e531e67dd6d269f458f22cd1f5e30e51
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Spine2:
+    - 100000
+    - 400000
+    Spine1:
+    - 100002
+    - 400002
+    Arm1_2.r:
+    - 100004
+    - 400004
+    Arm1_1.r:
+    - 100006
+    - 400006
+    Arm2_2.r:
+    - 100008
+    - 400008
+    Arm1_2.l:
+    - 100010
+    - 400010
+    Arm1_1.l:
+    - 100012
+    - 400012
+    Eyes:
+    - 100014
+    - 400014
+    master:
+    - 100016
+    - 400016
+    Armature:
+    - 100018
+    - 400018
+    Spine3:
+    - 100020
+    - 400020
+    Arm2_1.r:
+    - 100022
+    - 400022
+    Head_0:
+    - 100024
+    - 400024
+    Spine4:
+    - 100026
+    - 400026
+    //RootNode:
+    - 100028
+    - 400028
+    - 11100000
+    Lamp:
+    - 100030
+    - 400030
+    Body:
+    - 100032
+    - 400032
+    - 13700000
+    Arm2_2.l:
+    - 100034
+    - 400034
+    Left_Eye:
+    - 100036
+    - 400036
+    - 13700002
+    Right_Eye:
+    - 100038
+    - 400038
+    - 13700004
+    Arm2_1.l:
+    - 100040
+    - 400040
+    Head:
+    - 100042
+    - 400042
+    - 13700006
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Head
+    4300006: Body
+    7400000: Default Take //// vespa_pasted
+    7400002: Default Take //// Wasp_Sting

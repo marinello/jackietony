@@ -1,0 +1,125 @@
+fileFormatVersion: 1
+guid: 33a775c584d4442df9f12c25af003f9a
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Look:
+        firstFrame: 1
+        lastFrame: 59
+        loop: 1
+        wrapMode: 2
+      Shoot:
+        firstFrame: 70
+        lastFrame: 120
+        loop: 0
+        wrapMode: 1
+  nodeInfo:
+    joint10:
+    - 100000
+    - 400000
+    joint4:
+    - 100002
+    - 400002
+    joint8:
+    - 100004
+    - 400004
+    joint7:
+    - 100006
+    - 400006
+    polySurface9:
+    - 100008
+    - 400008
+    - 13700000
+    Right_Eye:
+    - 100010
+    - 400010
+    - 13700002
+    //RootNode:
+    - 100012
+    - 400012
+    - 11100000
+    polySurface7:
+    - 100014
+    - 400014
+    - 13700004
+    Left_Eye:
+    - 100016
+    - 400016
+    - 13700006
+    mesh:
+    - 100018
+    - 400018
+    polySurface8:
+    - 100020
+    - 400020
+    - 13700008
+    joint12:
+    - 100022
+    - 400022
+    polySurface6:
+    - 100024
+    - 400024
+    - 13700010
+    joint9:
+    - 100026
+    - 400026
+    joint13:
+    - 100028
+    - 400028
+    joint6:
+    - 100030
+    - 400030
+    joint11:
+    - 100032
+    - 400032
+    joint2:
+    - 100034
+    - 400034
+    joint5:
+    - 100036
+    - 400036
+    transform2:
+    - 100038
+    - 400038
+    joint3:
+    - 100040
+    - 400040
+    joint1:
+    - 100042
+    - 400042
+    Plant:
+    - 100044
+    - 400044
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface6
+    4300002: polySurface7
+    4300004: polySurface8
+    4300006: Right_Eye
+    4300008: Left_Eye
+    4300010: polySurface9
+    7400000: Plant_v2 //// Plant_V2
+    7400002: idle //// Plant_V2
+    7400004: attack //// Plant_V2
+    7400006: Look //// Plant_V2
+    7400008: Shoot //// Plant_V2

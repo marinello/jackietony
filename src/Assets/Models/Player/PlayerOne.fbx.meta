@@ -1,0 +1,2850 @@
+fileFormatVersion: 1
+guid: 678faa6581ebc40ee964c0c5ed5e9667
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.45
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator6:
+    - 100000
+    - 400000
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator8:
+    - 100002
+    - 400002
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator4:
+    - 100004
+    - 400004
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator3:
+    - 100006
+    - 400006
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator5:
+    - 100008
+    - 400008
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator1:
+    - 100010
+    - 400010
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_globalLocator:
+    - 100012
+    - 400012
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator2:
+    - 100014
+    - 400014
+    Tony_Barrow_ik1:Tony_Barrow:Scapula:
+    - 100016
+    - 400016
+    Tony_Barrow_ik1:Tony_Barrow:Chest:
+    - 100018
+    - 400018
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder:
+    - 100020
+    - 400020
+    Tony_Barrow_ik1:Tony_Barrow:BackA:
+    - 100022
+    - 400022
+    Tony_Barrow_ik1:Tony_Barrow:Root:
+    - 100024
+    - 400024
+    Tony_Barrow_ik1:Tony_Barrow:BackB:
+    - 100026
+    - 400026
+    Tony_Barrow_ik1:Tony_Barrow:FitSkeleton:
+    - 100028
+    - 400028
+    Tony_Barrow_ik1:Tony_Barrow:Main:
+    - 100030
+    - 400030
+    Tony_Barrow_ik1:Tony_Barrow:FitSkeletonOffset:
+    - 100032
+    - 400032
+    Tony_Barrow_ik2:
+    - 100034
+    - 400034
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLeg_R:
+    - 100036
+    - 400036
+    Tony_Barrow_ik1:Tony_Barrow:IKEndJointOrientToArm_R:
+    - 100038
+    - 400038
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintLeg_R:
+    - 100040
+    - 400040
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurveEnd_L:
+    - 100042
+    - 400042
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurve_L:
+    - 100044
+    - 400044
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator9:
+    - 100046
+    - 400046
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator2:
+    - 100048
+    - 400048
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator5:
+    - 100050
+    - 400050
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator6:
+    - 100052
+    - 400052
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator1:
+    - 100054
+    - 400054
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator4:
+    - 100056
+    - 400056
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator3:
+    - 100058
+    - 400058
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator7:
+    - 100060
+    - 400060
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator9:
+    - 100062
+    - 400062
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_twistJointsLocator10:
+    - 100064
+    - 400064
+    Tony_Barrow_ik1:Tony_Barrow:Elbow:
+    - 100066
+    - 400066
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorWrist_L:
+    - 100068
+    - 400068
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform1_L:
+    - 100070
+    - 400070
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetHead_M:
+    - 100072
+    - 400072
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentWrist_L:
+    - 100074
+    - 400074
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPointOnCurveXform1_L:
+    - 100076
+    - 400076
+    Tony_Barrow_ik1:Tony_Barrow:TwisterNeck2_M:
+    - 100078
+    - 400078
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentHip_R:
+    - 100080
+    - 400080
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintShoulder_L:
+    - 100082
+    - 400082
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip0_R:
+    - 100084
+    - 400084
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKKnee_R:
+    - 100086
+    - 400086
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetElbow_R:
+    - 100088
+    - 400088
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform3_L:
+    - 100090
+    - 400090
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetWrist_R:
+    - 100092
+    - 400092
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow2_R:
+    - 100094
+    - 400094
+    Tony_Barrow_ik1:Tony_Barrow:TwisterNeck0_M:
+    - 100096
+    - 400096
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform1_R:
+    - 100098
+    - 400098
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintHip_L:
+    - 100100
+    - 400100
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurveEnd_R:
+    - 100102
+    - 400102
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraHip_L:
+    - 100104
+    - 400104
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndKnee_R:
+    - 100106
+    - 400106
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurveStart_R:
+    - 100108
+    - 400108
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowWrist_R:
+    - 100110
+    - 400110
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtShoulder_R:
+    - 100112
+    - 400112
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorHip_R:
+    - 100114
+    - 400114
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurveMid_L:
+    - 100116
+    - 400116
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKNeck_M:
+    - 100118
+    - 400118
+    Tony_Barrow_ik1:Tony_Barrow:Bend0ExtraElbow_R:
+    - 100120
+    - 400120
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip3_R:
+    - 100122
+    - 400122
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtHip_L:
+    - 100124
+    - 400124
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetNeck_M:
+    - 100126
+    - 400126
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtNeck_M:
+    - 100128
+    - 400128
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurveStart_L:
+    - 100130
+    - 400130
+    Tony_Barrow_ik1:Tony_Barrow:Bend0Elbow_L:
+    - 100132
+    - 400132
+    Tony_Barrow_ik1:Tony_Barrow:Bend0ExtraElbow_L:
+    - 100134
+    - 400134
+    Tony_Barrow_ik1:Tony_Barrow:TwisterShoulder1_R:
+    - 100136
+    - 400136
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtElbow_L:
+    - 100138
+    - 400138
+    Tony_Barrow_ik1:Tony_Barrow:TwisterShoulder2_R:
+    - 100140
+    - 400140
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurveMid_L:
+    - 100142
+    - 400142
+    Tony_Barrow_ik1:Tony_Barrow:BendElbow_L:
+    - 100144
+    - 400144
+    Tony_Barrow_ik1:Tony_Barrow:AlignIKToAnkle_R:
+    - 100146
+    - 400146
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetAnkle_R:
+    - 100148
+    - 400148
+    Tony_Barrow_ik1:Tony_Barrow:FKAnkle_R:
+    - 100150
+    - 400150
+    Tony_Barrow_ik1:Tony_Barrow:FKKnee_R:
+    - 100152
+    - 400152
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraKnee_R:
+    - 100154
+    - 400154
+    Tony_Barrow_ik1:Tony_Barrow:FKXKnee_R:
+    - 100156
+    - 400156
+    Tony_Barrow_ik1:Tony_Barrow:FKHip_R:
+    - 100158
+    - 400158
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraHip_R:
+    - 100160
+    - 400160
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetKnee_R:
+    - 100162
+    - 400162
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixKnee_R:
+    - 100164
+    - 400164
+    Tony_Barrow_ik1:Tony_Barrow:WagSystem:
+    - 100166
+    - 400166
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetKnee_R:
+    - 100168
+    - 400168
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentKnee_R:
+    - 100170
+    - 400170
+    Tony_Barrow_ik1:Tony_Barrow:BendHip_L:
+    - 100172
+    - 400172
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraElbow_R:
+    - 100174
+    - 400174
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineLocator2_M:
+    - 100176
+    - 400176
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine0AlignTo_M:
+    - 100178
+    - 400178
+    Tony_Barrow_ik1:Tony_Barrow:IKXElbow_L:
+    - 100180
+    - 400180
+    Tony_Barrow_ik1:Tony_Barrow:IKfake2Spine_M:
+    - 100182
+    - 400182
+    Tony_Barrow_ik1:Tony_Barrow:IKXShoulder_L:
+    - 100184
+    - 400184
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowKnee_R:
+    - 100186
+    - 400186
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc1Arm_L:
+    - 100188
+    - 400188
+    Tony_Barrow_ik1:Tony_Barrow:IKEndJointOrientToLeg_L:
+    - 100190
+    - 400190
+    Tony_Barrow_ik1:Tony_Barrow:IKXLegHandle_L:
+    - 100192
+    - 400192
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurve_L:
+    - 100194
+    - 400194
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorShoulder_R:
+    - 100196
+    - 400196
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLegBall_L:
+    - 100198
+    - 400198
+    Tony_Barrow_ik1:Tony_Barrow:IKRollLegBall_L:
+    - 100200
+    - 400200
+    Tony_Barrow_ik1:Tony_Barrow:IKdistanceArm_L:
+    - 100202
+    - 400202
+    Tony_Barrow_ik1:Tony_Barrow:IKStatic:
+    - 100204
+    - 400204
+    Tony_Barrow_ik1:Tony_Barrow:AimerShoulder0_R:
+    - 100206
+    - 400206
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintElbow_R:
+    - 100208
+    - 400208
+    Tony_Barrow_ik1:Tony_Barrow:PoleArm_R:
+    - 100210
+    - 400210
+    Tony_Barrow_ik1:Tony_Barrow:IKHandle:
+    - 100212
+    - 400212
+    Tony_Barrow_ik1:Tony_Barrow:PoleExtraArm_R:
+    - 100214
+    - 400214
+    Tony_Barrow_ik1:Tony_Barrow:IKArm_L:
+    - 100216
+    - 400216
+    Tony_Barrow_ik1:Tony_Barrow:IKEndJointOrientToSpine_M:
+    - 100218
+    - 400218
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintArm_LStatic:
+    - 100220
+    - 400220
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform3_R:
+    - 100222
+    - 400222
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow3_R:
+    - 100224
+    - 400224
+    Tony_Barrow_ik1:Tony_Barrow:RootSystem:
+    - 100226
+    - 400226
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraSpine2_M:
+    - 100228
+    - 400228
+    Tony_Barrow_ik1:Tony_Barrow:IKStiffStartOrientSpine_M:
+    - 100230
+    - 400230
+    Tony_Barrow_ik1:Tony_Barrow:FKIKLeg_R:
+    - 100232
+    - 400232
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraArm_R:
+    - 100234
+    - 400234
+    Tony_Barrow_ik1:Tony_Barrow:IKXArmHandle_R:
+    - 100236
+    - 400236
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKHead_M:
+    - 100238
+    - 400238
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentHead_M:
+    - 100240
+    - 400240
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurveStart_L:
+    - 100242
+    - 400242
+    Tony_Barrow_ik1:Tony_Barrow:FKIKParentConstraintLeg_L:
+    - 100244
+    - 400244
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine2_M:
+    - 100246
+    - 400246
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtElbow_R:
+    - 100248
+    - 400248
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurveEnd_L:
+    - 100250
+    - 400250
+    Tony_Barrow_ik1:Tony_Barrow:FKIKArm_L:
+    - 100252
+    - 400252
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKHip_R:
+    - 100254
+    - 400254
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger4_L:
+    - 100256
+    - 400256
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleFinger3_L:
+    - 100258
+    - 400258
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger2_L:
+    - 100260
+    - 400260
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleFinger3_L:
+    - 100262
+    - 400262
+    Tony_Barrow_ik1:Tony_Barrow:IKLiftToeLegToe_R:
+    - 100264
+    - 400264
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLegHeel_R:
+    - 100266
+    - 400266
+    Tony_Barrow_ik1:Tony_Barrow:IKLegToe_R:
+    - 100268
+    - 400268
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator5:
+    - 100270
+    - 400270
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator8:
+    - 100272
+    - 400272
+    Tony_Barrow_ik1:Tony_Barrow:BendNeck_M:
+    - 100274
+    - 400274
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc1Arm_R:
+    - 100276
+    - 400276
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorElbow_R:
+    - 100278
+    - 400278
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistHip_R:
+    - 100280
+    - 400280
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip4_R:
+    - 100282
+    - 400282
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPointOnCurveXform1_R:
+    - 100284
+    - 400284
+    Tony_Barrow_ik1:Tony_Barrow:IKXKnee_R:
+    - 100286
+    - 400286
+    Tony_Barrow_ik1:Tony_Barrow:IKXBigToe_R:
+    - 100288
+    - 400288
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator7:
+    - 100290
+    - 400290
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator9:
+    - 100292
+    - 400292
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator5:
+    - 100294
+    - 400294
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator4:
+    - 100296
+    - 400296
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator6:
+    - 100298
+    - 400298
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator2:
+    - 100300
+    - 400300
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator1:
+    - 100302
+    - 400302
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator3:
+    - 100304
+    - 400304
+    Tony_Barrow_ik1:Tony_Barrow:Fingers:
+    - 100306
+    - 400306
+    Tony_Barrow_ik1:Tony_Barrow:Neck:
+    - 100308
+    - 400308
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger3:
+    - 100310
+    - 400310
+    Tony_Barrow_ik1:Tony_Barrow:Wrist_globalLocator:
+    - 100312
+    - 400312
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger2:
+    - 100314
+    - 400314
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger4:
+    - 100316
+    - 400316
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger4:
+    - 100318
+    - 400318
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger3:
+    - 100320
+    - 400320
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger1:
+    - 100322
+    - 400322
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger1:
+    - 100324
+    - 400324
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger4:
+    - 100326
+    - 400326
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger2:
+    - 100328
+    - 400328
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger2:
+    - 100330
+    - 400330
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger1:
+    - 100332
+    - 400332
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger3:
+    - 100334
+    - 400334
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger4:
+    - 100336
+    - 400336
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger3:
+    - 100338
+    - 400338
+    Tony_Barrow_ik1:Tony_Barrow:Cup:
+    - 100340
+    - 400340
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger1:
+    - 100342
+    - 400342
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger4:
+    - 100344
+    - 400344
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger2:
+    - 100346
+    - 400346
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger2:
+    - 100348
+    - 400348
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger1:
+    - 100350
+    - 400350
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger3:
+    - 100352
+    - 400352
+    Tony_Barrow_ik1:Tony_Barrow:Wrist:
+    - 100354
+    - 400354
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator4:
+    - 100356
+    - 400356
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator7:
+    - 100358
+    - 400358
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator10:
+    - 100360
+    - 400360
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator9:
+    - 100362
+    - 400362
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndHip_R:
+    - 100364
+    - 400364
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurveStart_R:
+    - 100366
+    - 400366
+    Tony_Barrow_ik1:Tony_Barrow:RootCenterBtwLegsOffset_M:
+    - 100368
+    - 400368
+    Tony_Barrow_ik1:Tony_Barrow:IKFootPivotBallReverseLeg_R:
+    - 100370
+    - 400370
+    Tony_Barrow_ik1:Tony_Barrow:IKXLegHandleBall_R:
+    - 100372
+    - 400372
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow0_R:
+    - 100374
+    - 400374
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndHead_M:
+    - 100376
+    - 400376
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow1_R:
+    - 100378
+    - 400378
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerHead_M:
+    - 100380
+    - 400380
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorHead_M:
+    - 100382
+    - 400382
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowNeck_M:
+    - 100384
+    - 400384
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKRoot_M:
+    - 100386
+    - 400386
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleFinger1_L:
+    - 100388
+    - 400388
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger1_L:
+    - 100390
+    - 400390
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger4_L:
+    - 100392
+    - 400392
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger3_L:
+    - 100394
+    - 400394
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleFinger1_L:
+    - 100396
+    - 400396
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRingFinger3_L:
+    - 100398
+    - 400398
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger2_L:
+    - 100400
+    - 400400
+    Tony_Barrow_ik1:Tony_Barrow:FKRingFinger3_L:
+    - 100402
+    - 400402
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRingFinger2_L:
+    - 100404
+    - 400404
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixHead_M:
+    - 100406
+    - 400406
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistHead_M:
+    - 100408
+    - 400408
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraIndexFinger2_R:
+    - 100410
+    - 400410
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraIndexFinger1_R:
+    - 100412
+    - 400412
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger4_R:
+    - 100414
+    - 400414
+    Tony_Barrow_ik1:Tony_Barrow:FKIndexFinger1_R:
+    - 100416
+    - 400416
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger3_R:
+    - 100418
+    - 400418
+    Tony_Barrow_ik1:Tony_Barrow:IKEndJointOrientToLeg_R:
+    - 100420
+    - 400420
+    Tony_Barrow_ik1:Tony_Barrow:PoleLeg_R:
+    - 100422
+    - 400422
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPointOnCurveXform2_R:
+    - 100424
+    - 400424
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine4AlignTo_M:
+    - 100426
+    - 400426
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineLocator4_M:
+    - 100428
+    - 400428
+    Tony_Barrow_ik1:Tony_Barrow:NeckBendCurve_M:
+    - 100430
+    - 400430
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraJaw_M:
+    - 100432
+    - 400432
+    Tony_Barrow_ik1:Tony_Barrow:FKXJaw_M:
+    - 100434
+    - 400434
+    Tony_Barrow_ik1:Tony_Barrow:FKXHair_M:
+    - 100436
+    - 400436
+    Tony_Barrow_ik1:Tony_Barrow:FKXHead_M:
+    - 100438
+    - 400438
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetJaw_M:
+    - 100440
+    - 400440
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraHead_M:
+    - 100442
+    - 400442
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalHead_M:
+    - 100444
+    - 400444
+    Tony_Barrow_ik1:Tony_Barrow:FKHead_M:
+    - 100446
+    - 400446
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetHead_M:
+    - 100448
+    - 400448
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalStaticHead_M:
+    - 100450
+    - 400450
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraNeck_M:
+    - 100452
+    - 400452
+    Tony_Barrow_ik1:Tony_Barrow:AlignIKToWrist_R:
+    - 100454
+    - 400454
+    Tony_Barrow_ik1:Tony_Barrow:FKXNeck_M:
+    - 100456
+    - 400456
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetIndexFinger1_R:
+    - 100458
+    - 400458
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraThumbFinger3_R:
+    - 100460
+    - 400460
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetThumbFinger3_R:
+    - 100462
+    - 400462
+    Tony_Barrow_ik1:Tony_Barrow:FKThumbFinger3_R:
+    - 100464
+    - 400464
+    Tony_Barrow_ik1:Tony_Barrow:FKThumbFinger2_R:
+    - 100466
+    - 400466
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraThumbFinger2_R:
+    - 100468
+    - 400468
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger2_R:
+    - 100470
+    - 400470
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger1_R:
+    - 100472
+    - 400472
+    Tony_Barrow_ik1:Tony_Barrow:FKThumbFinger1_R:
+    - 100474
+    - 400474
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetThumbFinger2_R:
+    - 100476
+    - 400476
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetThumbFinger1_R:
+    - 100478
+    - 400478
+    Tony_Barrow_ik1:Tony_Barrow:FKParentConstraintToWrist_R:
+    - 100480
+    - 400480
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraThumbFinger1_R:
+    - 100482
+    - 400482
+    Tony_Barrow_ik1:Tony_Barrow:FKSystem:
+    - 100484
+    - 400484
+    Tony_Barrow_ik1:Tony_Barrow:Heel:
+    - 100486
+    - 400486
+    Tony_Barrow_ik1:Tony_Barrow:BigToe:
+    - 100488
+    - 400488
+    Tony_Barrow_ik1:Tony_Barrow:MotionSystem:
+    - 100490
+    - 400490
+    Tony_Barrow_ik1:Tony_Barrow:MiddleToe1:
+    - 100492
+    - 400492
+    Tony_Barrow_ik1:Tony_Barrow:PinkyToe:
+    - 100494
+    - 400494
+    Tony_Barrow_ik1:Tony_Barrow:Ankle:
+    - 100496
+    - 400496
+    Tony_Barrow_ik1:Tony_Barrow:MiddleToe2:
+    - 100498
+    - 400498
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator10:
+    - 100500
+    - 400500
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator8:
+    - 100502
+    - 400502
+    Tony_Barrow_ik1:Tony_Barrow:Knee:
+    - 100504
+    - 400504
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator6:
+    - 100506
+    - 400506
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator9:
+    - 100508
+    - 400508
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintArm_LStatic:
+    - 100510
+    - 400510
+    Tony_Barrow_ik1:Tony_Barrow:IKXAnkle_L:
+    - 100512
+    - 400512
+    Tony_Barrow_ik1:Tony_Barrow:IKXKnee_L:
+    - 100514
+    - 400514
+    Tony_Barrow_ik1:Tony_Barrow:IKdistanceLeg_R:
+    - 100516
+    - 400516
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtHip_R:
+    - 100518
+    - 400518
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintArm_L:
+    - 100520
+    - 400520
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine4AlignUnTwistTo_M:
+    - 100522
+    - 400522
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintHip_R:
+    - 100524
+    - 400524
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraArm_L:
+    - 100526
+    - 400526
+    Tony_Barrow_ik1:Tony_Barrow:BendShoulder_R:
+    - 100528
+    - 400528
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc2Arm_L:
+    - 100530
+    - 400530
+    Tony_Barrow_ik1:Tony_Barrow:PoleLeg_L:
+    - 100532
+    - 400532
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLegToe_R:
+    - 100534
+    - 400534
+    Tony_Barrow_ik1:Tony_Barrow:IKFootPinkyPivotLeg_R:
+    - 100536
+    - 400536
+    Tony_Barrow_ik1:Tony_Barrow:IKRollLegToe_R:
+    - 100538
+    - 400538
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform1_L:
+    - 100540
+    - 400540
+    Tony_Barrow_ik1:Tony_Barrow:IKXHeel_L:
+    - 100542
+    - 400542
+    Tony_Barrow_ik1:Tony_Barrow:IKArm_R:
+    - 100544
+    - 400544
+    Tony_Barrow_ik1:Tony_Barrow:FKNeck_M:
+    - 100546
+    - 400546
+    Tony_Barrow_ik1:Tony_Barrow:FKWrist_R:
+    - 100548
+    - 400548
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetNeck_M:
+    - 100550
+    - 400550
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraWrist_R:
+    - 100552
+    - 400552
+    Tony_Barrow_ik1:Tony_Barrow:PoleArm_L:
+    - 100554
+    - 400554
+    Tony_Barrow_ik1:Tony_Barrow:PoleExtraArm_L:
+    - 100556
+    - 400556
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerWrist_R:
+    - 100558
+    - 400558
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform4_L:
+    - 100560
+    - 400560
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintArm_R:
+    - 100562
+    - 400562
+    Tony_Barrow_ik1:Tony_Barrow:IKXPinkyToe_L:
+    - 100564
+    - 400564
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistRoot_M:
+    - 100566
+    - 400566
+    Tony_Barrow_ik1:Tony_Barrow:IKLeg_L:
+    - 100568
+    - 400568
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLeg_L:
+    - 100570
+    - 400570
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetHip_R:
+    - 100572
+    - 400572
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentShoulder_R:
+    - 100574
+    - 400574
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixHip_R:
+    - 100576
+    - 400576
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowWrist_L:
+    - 100578
+    - 400578
+    Tony_Barrow_ik1:Tony_Barrow:IKFootRollLeg_L:
+    - 100580
+    - 400580
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowHip_R:
+    - 100582
+    - 400582
+    Tony_Barrow_ik1:Tony_Barrow:IKMessure:
+    - 100584
+    - 400584
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKWrist_L:
+    - 100586
+    - 400586
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistWrist_L:
+    - 100588
+    - 400588
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKElbow_L:
+    - 100590
+    - 400590
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowHead_M:
+    - 100592
+    - 400592
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistShoulder_R:
+    - 100594
+    - 400594
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixShoulder_R:
+    - 100596
+    - 400596
+    Tony_Barrow_ik1:Tony_Barrow:IKXLegHandleToe_R:
+    - 100598
+    - 400598
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintLeg_R:
+    - 100600
+    - 400600
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetWrist_L:
+    - 100602
+    - 400602
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixWrist_L:
+    - 100604
+    - 400604
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowElbow_L:
+    - 100606
+    - 400606
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndWrist_L:
+    - 100608
+    - 400608
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerWrist_L:
+    - 100610
+    - 400610
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetElbow_L:
+    - 100612
+    - 400612
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip2_R:
+    - 100614
+    - 400614
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraSpine4_M:
+    - 100616
+    - 400616
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintSpine2_M:
+    - 100618
+    - 400618
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowRoot_M:
+    - 100620
+    - 400620
+    Tony_Barrow_ik1:Tony_Barrow:AimerHip0_R:
+    - 100622
+    - 400622
+    Tony_Barrow_ik1:Tony_Barrow:BendSystem:
+    - 100624
+    - 400624
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurveMid_R:
+    - 100626
+    - 400626
+    Tony_Barrow_ik1:Tony_Barrow:IKXLegHandleBall_L:
+    - 100628
+    - 400628
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintShoulder_R:
+    - 100630
+    - 400630
+    Tony_Barrow_ik1:Tony_Barrow:IKFootPinkyPivotLeg_L:
+    - 100632
+    - 400632
+    Tony_Barrow_ik1:Tony_Barrow:IKFootIndexPivotLeg_L:
+    - 100634
+    - 400634
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform4_R:
+    - 100636
+    - 400636
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndNeck_M:
+    - 100638
+    - 400638
+    Tony_Barrow_ik1:Tony_Barrow:BendHip_R:
+    - 100640
+    - 400640
+    Tony_Barrow_ik1:Tony_Barrow:IKXLegHandleToe_L:
+    - 100642
+    - 400642
+    Tony_Barrow_ik1:Tony_Barrow:BendElbow_R:
+    - 100644
+    - 400644
+    Tony_Barrow_ik1:Tony_Barrow:IKXElbow_R:
+    - 100646
+    - 400646
+    Tony_Barrow_ik1:Tony_Barrow:IKXHip_R:
+    - 100648
+    - 400648
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine4_M:
+    - 100650
+    - 400650
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip1_R:
+    - 100652
+    - 400652
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLegBall_R:
+    - 100654
+    - 400654
+    Tony_Barrow_ik1:Tony_Barrow:IKXLegHandle_R:
+    - 100656
+    - 400656
+    Tony_Barrow_ik1:Tony_Barrow:FKXHip_R:
+    - 100658
+    - 400658
+    Tony_Barrow_ik1:Tony_Barrow:FKParentConstraintToRoot_M:
+    - 100660
+    - 400660
+    Tony_Barrow_ik1:Tony_Barrow:AlignIKToWrist_L:
+    - 100662
+    - 400662
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetHip_R:
+    - 100664
+    - 400664
+    Tony_Barrow_ik1:Tony_Barrow:FKWrist_L:
+    - 100666
+    - 400666
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraWrist_L:
+    - 100668
+    - 400668
+    Tony_Barrow_ik1:Tony_Barrow:FKXWrist_L:
+    - 100670
+    - 400670
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalStaticWrist_L:
+    - 100672
+    - 400672
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetWrist_L:
+    - 100674
+    - 400674
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalWrist_L:
+    - 100676
+    - 400676
+    Tony_Barrow_ik1:Tony_Barrow:FKElbow_L:
+    - 100678
+    - 400678
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraElbow_L:
+    - 100680
+    - 400680
+    Tony_Barrow_ik1:Tony_Barrow:FKXElbow_L:
+    - 100682
+    - 400682
+    Tony_Barrow_ik1:Tony_Barrow:FKXShoulder_L:
+    - 100684
+    - 400684
+    Tony_Barrow_ik1:Tony_Barrow:FKShoulder_L:
+    - 100686
+    - 400686
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetElbow_L:
+    - 100688
+    - 400688
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalShoulder_L:
+    - 100690
+    - 400690
+    Tony_Barrow_ik1:Tony_Barrow:FKScapula_L:
+    - 100692
+    - 400692
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraShoulder_L:
+    - 100694
+    - 400694
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetShoulder_L:
+    - 100696
+    - 400696
+    Tony_Barrow_ik1:Tony_Barrow:IKRollLegBall_R:
+    - 100698
+    - 400698
+    Tony_Barrow_ik1:Tony_Barrow:IKLegHeel_R:
+    - 100700
+    - 400700
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintArm_L:
+    - 100702
+    - 400702
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform4_L:
+    - 100704
+    - 400704
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRingFinger3_L:
+    - 100706
+    - 400706
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRingFinger2_L:
+    - 100708
+    - 400708
+    Tony_Barrow_ik1:Tony_Barrow:FKRingFinger2_L:
+    - 100710
+    - 400710
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRingFinger1_L:
+    - 100712
+    - 400712
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRingFinger1_L:
+    - 100714
+    - 400714
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger1_L:
+    - 100716
+    - 400716
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPointOnCurveXform2_L:
+    - 100718
+    - 400718
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintHip_R:
+    - 100720
+    - 400720
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintShoulder_R:
+    - 100722
+    - 400722
+    Tony_Barrow_ik1:Tony_Barrow:IKFKAlignedArm_R:
+    - 100724
+    - 400724
+    Tony_Barrow_ik1:Tony_Barrow:IKOrientToSpine_M:
+    - 100726
+    - 400726
+    Tony_Barrow_ik1:Tony_Barrow:PoleExtraLeg_R:
+    - 100728
+    - 400728
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurve_R:
+    - 100730
+    - 400730
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintLeg_L:
+    - 100732
+    - 400732
+    Tony_Barrow_ik1:Tony_Barrow:FKXWrist_R:
+    - 100734
+    - 400734
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalStaticWrist_R:
+    - 100736
+    - 400736
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetWrist_R:
+    - 100738
+    - 400738
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalWrist_R:
+    - 100740
+    - 400740
+    Tony_Barrow_ik1:Tony_Barrow:FKElbow_R:
+    - 100742
+    - 400742
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraElbow_R:
+    - 100744
+    - 400744
+    Tony_Barrow_ik1:Tony_Barrow:FKXElbow_R:
+    - 100746
+    - 400746
+    Tony_Barrow_ik1:Tony_Barrow:FKShoulder_R:
+    - 100748
+    - 400748
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetShoulder_R:
+    - 100750
+    - 400750
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetElbow_R:
+    - 100752
+    - 400752
+    Tony_Barrow_ik1:Tony_Barrow:FKXShoulder_R:
+    - 100754
+    - 400754
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintLeg_RStatic:
+    - 100756
+    - 400756
+    Tony_Barrow_ik1:Tony_Barrow:FKIKParentConstraintArm_R:
+    - 100758
+    - 400758
+    Tony_Barrow_ik1:Tony_Barrow:FKIKParentConstraintArm_L:
+    - 100760
+    - 400760
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentNeck_M:
+    - 100762
+    - 400762
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetCup_R:
+    - 100764
+    - 400764
+    Tony_Barrow_ik1:Tony_Barrow:FKCup_R:
+    - 100766
+    - 400766
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger3_R:
+    - 100768
+    - 400768
+    Tony_Barrow_ik1:Tony_Barrow:FKIndexFinger3_R:
+    - 100770
+    - 400770
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger4_R:
+    - 100772
+    - 400772
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetIndexFinger3_R:
+    - 100774
+    - 400774
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger2_R:
+    - 100776
+    - 400776
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraIndexFinger3_R:
+    - 100778
+    - 400778
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetIndexFinger2_R:
+    - 100780
+    - 400780
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger1_R:
+    - 100782
+    - 400782
+    Tony_Barrow_ik1:Tony_Barrow:FKIndexFinger2_R:
+    - 100784
+    - 400784
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixNeck_M:
+    - 100786
+    - 400786
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurveStart_R:
+    - 100788
+    - 400788
+    Tony_Barrow_ik1:Tony_Barrow:TwisterNeck1_M:
+    - 100790
+    - 400790
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistNeck_M:
+    - 100792
+    - 400792
+    Tony_Barrow_ik1:Tony_Barrow:BendAimerAtShoulder_L:
+    - 100794
+    - 400794
+    Tony_Barrow_ik1:Tony_Barrow:NeckBendCurveStart_M:
+    - 100796
+    - 400796
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineLocator1_M:
+    - 100798
+    - 400798
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine0_M:
+    - 100800
+    - 400800
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentWrist_R:
+    - 100802
+    - 400802
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixElbow_R:
+    - 100804
+    - 400804
+    Tony_Barrow_ik1:Tony_Barrow:AimerNeck0_M:
+    - 100806
+    - 400806
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurveMid_L:
+    - 100808
+    - 400808
+    Tony_Barrow_ik1:Tony_Barrow:IKFootPivotBallReverseLeg_L:
+    - 100810
+    - 400810
+    Tony_Barrow_ik1:Tony_Barrow:IKLegBall_L:
+    - 100812
+    - 400812
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetPinkyFinger2_L:
+    - 100814
+    - 400814
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger1_L:
+    - 100816
+    - 400816
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraPinkyFinger2_L:
+    - 100818
+    - 400818
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraPinkyFinger1_L:
+    - 100820
+    - 400820
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetPinkyFinger1_L:
+    - 100822
+    - 400822
+    Tony_Barrow_ik1:Tony_Barrow:FKPinkyFinger1_L:
+    - 100824
+    - 400824
+    Tony_Barrow_ik1:Tony_Barrow:FKCup_L:
+    - 100826
+    - 400826
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraCup_L:
+    - 100828
+    - 400828
+    Tony_Barrow_ik1:Tony_Barrow:FKXCup_L:
+    - 100830
+    - 400830
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger4_L:
+    - 100832
+    - 400832
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger3_L:
+    - 100834
+    - 400834
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetCup_L:
+    - 100836
+    - 400836
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraIndexFinger3_L:
+    - 100838
+    - 400838
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetIndexFinger3_L:
+    - 100840
+    - 400840
+    Tony_Barrow_ik1:Tony_Barrow:FKIndexFinger3_L:
+    - 100842
+    - 400842
+    Tony_Barrow_ik1:Tony_Barrow:FKIndexFinger2_L:
+    - 100844
+    - 400844
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraIndexFinger2_L:
+    - 100846
+    - 400846
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger2_L:
+    - 100848
+    - 400848
+    Tony_Barrow_ik1:Tony_Barrow:FKXIndexFinger1_L:
+    - 100850
+    - 400850
+    Tony_Barrow_ik1:Tony_Barrow:FKIndexFinger1_L:
+    - 100852
+    - 400852
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetIndexFinger2_L:
+    - 100854
+    - 400854
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetIndexFinger1_L:
+    - 100856
+    - 400856
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger4_L:
+    - 100858
+    - 400858
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraIndexFinger1_L:
+    - 100860
+    - 400860
+    Tony_Barrow_ik1:Tony_Barrow:FKThumbFinger3_L:
+    - 100862
+    - 400862
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraThumbFinger3_L:
+    - 100864
+    - 400864
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger3_L:
+    - 100866
+    - 400866
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger2_L:
+    - 100868
+    - 400868
+    Tony_Barrow_ik1:Tony_Barrow:FKThumbFinger2_L:
+    - 100870
+    - 400870
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetThumbFinger3_L:
+    - 100872
+    - 400872
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetThumbFinger2_L:
+    - 100874
+    - 400874
+    Tony_Barrow_ik1:Tony_Barrow:FKXThumbFinger1_L:
+    - 100876
+    - 400876
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraThumbFinger2_L:
+    - 100878
+    - 400878
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraThumbFinger1_L:
+    - 100880
+    - 400880
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetThumbFinger1_L:
+    - 100882
+    - 400882
+    Tony_Barrow_ik1:Tony_Barrow:FKThumbFinger1_L:
+    - 100884
+    - 400884
+    Tony_Barrow_ik1:Tony_Barrow:FKXHeel_L:
+    - 100886
+    - 400886
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyToe_L:
+    - 100888
+    - 400888
+    Tony_Barrow_ik1:Tony_Barrow:FKParentConstraintToWrist_L:
+    - 100890
+    - 400890
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleToe1_L:
+    - 100892
+    - 400892
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleToe2_L:
+    - 100894
+    - 400894
+    Tony_Barrow_ik1:Tony_Barrow:FKXBigToe_L:
+    - 100896
+    - 400896
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleToe1_L:
+    - 100898
+    - 400898
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleToe1_L:
+    - 100900
+    - 400900
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleToe1_L:
+    - 100902
+    - 400902
+    Tony_Barrow_ik1:Tony_Barrow:FKXAnkle_L:
+    - 100904
+    - 400904
+    Tony_Barrow_ik1:Tony_Barrow:FKAnkle_L:
+    - 100906
+    - 400906
+    Tony_Barrow_ik1:Tony_Barrow:AlignIKToAnkle_L:
+    - 100908
+    - 400908
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetAnkle_L:
+    - 100910
+    - 400910
+    Tony_Barrow_ik1:Tony_Barrow:FKXKnee_L:
+    - 100912
+    - 400912
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraAnkle_L:
+    - 100914
+    - 400914
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraKnee_L:
+    - 100916
+    - 400916
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetKnee_L:
+    - 100918
+    - 400918
+    Tony_Barrow_ik1:Tony_Barrow:FKKnee_L:
+    - 100920
+    - 400920
+    Tony_Barrow_ik1:Tony_Barrow:FKHip_L:
+    - 100922
+    - 400922
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraHip_L:
+    - 100924
+    - 400924
+    Tony_Barrow_ik1:Tony_Barrow:FKXHip_L:
+    - 100926
+    - 400926
+    Tony_Barrow_ik1:Tony_Barrow:FKXHeel_R:
+    - 100928
+    - 400928
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyToe_R:
+    - 100930
+    - 400930
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetHip_L:
+    - 100932
+    - 400932
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleToe1_R:
+    - 100934
+    - 400934
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleToe2_R:
+    - 100936
+    - 400936
+    Tony_Barrow_ik1:Tony_Barrow:FKXBigToe_R:
+    - 100938
+    - 400938
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleToe1_R:
+    - 100940
+    - 400940
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleToe1_R:
+    - 100942
+    - 400942
+    Tony_Barrow_ik1:Tony_Barrow:FKXAnkle_R:
+    - 100944
+    - 400944
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraAnkle_R:
+    - 100946
+    - 400946
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleToe1_R:
+    - 100948
+    - 400948
+    Tony_Barrow_ik1:Tony_Barrow:IKXPinkyToe_R:
+    - 100950
+    - 400950
+    Tony_Barrow_ik1:Tony_Barrow:IKXRoot_M:
+    - 100952
+    - 400952
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerNeck_M:
+    - 100954
+    - 400954
+    Tony_Barrow_ik1:Tony_Barrow:BendShoulder_L:
+    - 100956
+    - 400956
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform2_R:
+    - 100958
+    - 400958
+    Tony_Barrow_ik1:Tony_Barrow:IKRollLegHeel_R:
+    - 100960
+    - 400960
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator5:
+    - 100962
+    - 400962
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator7:
+    - 100964
+    - 400964
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator2:
+    - 100966
+    - 400966
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator3:
+    - 100968
+    - 400968
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator4:
+    - 100970
+    - 400970
+    Tony_Barrow_ik1:Tony_Barrow:Head_globalLocator:
+    - 100972
+    - 400972
+    Tony_Barrow_ik1:Tony_Barrow:Hip:
+    - 100974
+    - 400974
+    Tony_Barrow_ik1:Tony_Barrow:Hip_twistJointsLocator1:
+    - 100976
+    - 400976
+    Tony_Barrow_ik1:Tony_Barrow:Jaw:
+    - 100978
+    - 400978
+    Tony_Barrow_ik1:Tony_Barrow:Head:
+    - 100980
+    - 400980
+    Tony_Barrow_ik1:Tony_Barrow:JawEnd:
+    - 100982
+    - 400982
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator8:
+    - 100984
+    - 400984
+    Tony_Barrow_ik1:Tony_Barrow:Neck_twistJointsLocator10:
+    - 100986
+    - 400986
+    Tony_Barrow_ik1:Tony_Barrow:Hair:
+    - 100988
+    - 400988
+    Tony_Barrow_ik1:Tony_Barrow:TwistSystem:
+    - 100990
+    - 400990
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc2Leg_R:
+    - 100992
+    - 400992
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc2Arm_R:
+    - 100994
+    - 400994
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraShoulder_L:
+    - 100996
+    - 400996
+    Tony_Barrow_ik1:Tony_Barrow:PoleAnnotationLeg_L:
+    - 100998
+    - 400998
+    Tony_Barrow_ik1:Tony_Barrow:IKXHip_L:
+    - 101000
+    - 401000
+    Tony_Barrow_ik1:Tony_Barrow:IKFKAlignedLeg_L:
+    - 101002
+    - 401002
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorWrist_R:
+    - 101004
+    - 401004
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform4_R:
+    - 101006
+    - 401006
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndRoot_M:
+    - 101008
+    - 401008
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurve_R:
+    - 101010
+    - 401010
+    Tony_Barrow_ik1:Tony_Barrow:FKRingFinger1_L:
+    - 101012
+    - 401012
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger3_L:
+    - 101014
+    - 401014
+    Tony_Barrow_ik1:Tony_Barrow:FKPinkyFinger3_L:
+    - 101016
+    - 401016
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger4_L:
+    - 101018
+    - 401018
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger2_L:
+    - 101020
+    - 401020
+    Tony_Barrow_ik1:Tony_Barrow:FKPinkyFinger2_L:
+    - 101022
+    - 401022
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraPinkyFinger3_L:
+    - 101024
+    - 401024
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetPinkyFinger3_L:
+    - 101026
+    - 401026
+    Tony_Barrow_ik1:Tony_Barrow:FKXChest_M:
+    - 101028
+    - 401028
+    Tony_Barrow_ik1:Tony_Barrow:FKBackB_M:
+    - 101030
+    - 401030
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraChest_M:
+    - 101032
+    - 401032
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetBackB_M:
+    - 101034
+    - 401034
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetChest_M:
+    - 101036
+    - 401036
+    Tony_Barrow_ik1:Tony_Barrow:IKdistanceLeg_L:
+    - 101038
+    - 401038
+    Tony_Barrow_ik1:Tony_Barrow:FKBackA_M:
+    - 101040
+    - 401040
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraBackB_M:
+    - 101042
+    - 401042
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetBackA_M:
+    - 101044
+    - 401044
+    Tony_Barrow_ik1:Tony_Barrow:FKXBackA_M:
+    - 101046
+    - 401046
+    Tony_Barrow_ik1:Tony_Barrow:HipSwingerStabalizeRoot_M:
+    - 101048
+    - 401048
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraBackA_M:
+    - 101050
+    - 401050
+    Tony_Barrow_ik1:Tony_Barrow:HipSwingerGroupRoot_M:
+    - 101052
+    - 401052
+    Tony_Barrow_ik1:Tony_Barrow:FKRoot_M:
+    - 101054
+    - 401054
+    Tony_Barrow_ik1:Tony_Barrow:FKXRoot_M:
+    - 101056
+    - 401056
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRoot_M:
+    - 101058
+    - 401058
+    Tony_Barrow_ik1:Tony_Barrow:GlobalShoulder_L:
+    - 101060
+    - 401060
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRoot_M:
+    - 101062
+    - 401062
+    Tony_Barrow_ik1:Tony_Barrow:GlobalWrist_L:
+    - 101064
+    - 401064
+    Tony_Barrow_ik1:Tony_Barrow:GlobalOffsetWrist_L:
+    - 101066
+    - 401066
+    Tony_Barrow_ik1:Tony_Barrow:GlobalOffsetShoulder_L:
+    - 101068
+    - 401068
+    Tony_Barrow_ik1:Tony_Barrow:GlobalOffsetHead_M:
+    - 101070
+    - 401070
+    Tony_Barrow_ik1:Tony_Barrow:GlobalShoulder_R:
+    - 101072
+    - 401072
+    Tony_Barrow_ik1:Tony_Barrow:GlobalHead_M:
+    - 101074
+    - 401074
+    Tony_Barrow_ik1:Tony_Barrow:GlobalWrist_R:
+    - 101076
+    - 401076
+    Tony_Barrow_ik1:Tony_Barrow:GlobalOffsetWrist_R:
+    - 101078
+    - 401078
+    Tony_Barrow_ik1:Tony_Barrow:GlobalOffsetShoulder_R:
+    - 101080
+    - 401080
+    Tony_Barrow_ik1:Tony_Barrow:Center_M:
+    - 101082
+    - 401082
+    Tony_Barrow_ik1:Tony_Barrow:CenterExtra_M:
+    - 101084
+    - 401084
+    Tony_Barrow_ik1:Tony_Barrow:GlobalSystem:
+    - 101086
+    - 401086
+    Tony_Barrow_ik1:Tony_Barrow:RootCenterBtwLegsBlended_M:
+    - 101088
+    - 401088
+    Tony_Barrow_ik1:Tony_Barrow:Fingers_L:
+    - 101090
+    - 401090
+    Tony_Barrow_ik1:Tony_Barrow:CenterOffset_M:
+    - 101092
+    - 401092
+    Tony_Barrow_ik1:Tony_Barrow:FKParentConstraintFingers_L:
+    - 101094
+    - 401094
+    Tony_Barrow_ik1:Tony_Barrow:Fingers_R:
+    - 101096
+    - 401096
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetFingers_L:
+    - 101098
+    - 401098
+    Tony_Barrow_ik1:Tony_Barrow:FKParentConstraintFingers_R:
+    - 101100
+    - 401100
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger3_L:
+    - 101102
+    - 401102
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetFingers_R:
+    - 101104
+    - 401104
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleFinger3_L:
+    - 101106
+    - 401106
+    Tony_Barrow_ik1:Tony_Barrow:IKEndJointOrientToArm_L:
+    - 101108
+    - 401108
+    Tony_Barrow_ik1:Tony_Barrow:IKSpine4AlignUnTwistToOffset_M:
+    - 101110
+    - 401110
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixWrist_R:
+    - 101112
+    - 401112
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetShoulder_R:
+    - 101114
+    - 401114
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKShoulder_R:
+    - 101116
+    - 401116
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndWrist_R:
+    - 101118
+    - 401118
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistWrist_R:
+    - 101120
+    - 401120
+    Tony_Barrow_ik1:Tony_Barrow:IKLegBall_R:
+    - 101122
+    - 401122
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetScapula_L:
+    - 101124
+    - 401124
+    Tony_Barrow_ik1:Tony_Barrow:FKXScapula_L:
+    - 101126
+    - 401126
+    Tony_Barrow_ik1:Tony_Barrow:FKXJawEnd_M:
+    - 101128
+    - 401128
+    Tony_Barrow_ik1:Tony_Barrow:FKJaw_M:
+    - 101130
+    - 401130
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraScapula_L:
+    - 101132
+    - 401132
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraScapula_R:
+    - 101134
+    - 401134
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetScapula_R:
+    - 101136
+    - 401136
+    Tony_Barrow_ik1:Tony_Barrow:FKScapula_R:
+    - 101138
+    - 401138
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger4_R:
+    - 101140
+    - 401140
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger3_R:
+    - 101142
+    - 401142
+    Tony_Barrow_ik1:Tony_Barrow:FKParentConstraintToChest_M:
+    - 101144
+    - 401144
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleFinger3_R:
+    - 101146
+    - 401146
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger2_R:
+    - 101148
+    - 401148
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleFinger3_R:
+    - 101150
+    - 401150
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleFinger2_R:
+    - 101152
+    - 401152
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleFinger3_R:
+    - 101154
+    - 401154
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineLocator3_M:
+    - 101156
+    - 401156
+    Tony_Barrow_ik1:Tony_Barrow:IKStiffEndOrientSpine_M:
+    - 101158
+    - 401158
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleFinger2_L:
+    - 101160
+    - 401160
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleFinger2_L:
+    - 101162
+    - 401162
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleFinger2_L:
+    - 101164
+    - 401164
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleFinger1_L:
+    - 101166
+    - 401166
+    Tony_Barrow_ik1:Tony_Barrow:IKLiftToeLegToe_L:
+    - 101168
+    - 401168
+    Tony_Barrow_ik1:Tony_Barrow:IKLegToe_L:
+    - 101170
+    - 401170
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineCurve_M:
+    - 101172
+    - 401172
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintLeg_L:
+    - 101174
+    - 401174
+    Tony_Barrow_ik1:Tony_Barrow:PoleAimLeg_L:
+    - 101176
+    - 401176
+    Tony_Barrow_ik1:Tony_Barrow:NeckBendCurveEnd_M:
+    - 101178
+    - 401178
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintArm_RStatic:
+    - 101180
+    - 401180
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintArm_RStatic:
+    - 101182
+    - 401182
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraNeck_M:
+    - 101184
+    - 401184
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraHip_R:
+    - 101186
+    - 401186
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc2Leg_L:
+    - 101188
+    - 401188
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc1Leg_L:
+    - 101190
+    - 401190
+    Tony_Barrow_ik1:Tony_Barrow:FKXScapula_R:
+    - 101192
+    - 401192
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraShoulder_R:
+    - 101194
+    - 401194
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalShoulder_R:
+    - 101196
+    - 401196
+    Tony_Barrow_ik1:Tony_Barrow:IKXArmHandle_L:
+    - 101198
+    - 401198
+    Tony_Barrow_ik1:Tony_Barrow:IKmessureLoc1Leg_R:
+    - 101200
+    - 401200
+    Tony_Barrow_ik1:Tony_Barrow:IKdistanceArm_R:
+    - 101202
+    - 401202
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurveEnd_R:
+    - 101204
+    - 401204
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform3_R:
+    - 101206
+    - 401206
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurveEnd_R:
+    - 101208
+    - 401208
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator6:
+    - 101210
+    - 401210
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator10:
+    - 101212
+    - 401212
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator2:
+    - 101214
+    - 401214
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator3:
+    - 101216
+    - 401216
+    Tony_Barrow_ik1:Tony_Barrow:FKIKParentConstraintSpine_M:
+    - 101218
+    - 401218
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraShoulder_R:
+    - 101220
+    - 401220
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderBendCurveStart_L:
+    - 101222
+    - 401222
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform1_R:
+    - 101224
+    - 401224
+    Tony_Barrow_ik1:Tony_Barrow:NeckPointOnCurveXform2_M:
+    - 101226
+    - 401226
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator8:
+    - 101228
+    - 401228
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistJointsLocator1:
+    - 101230
+    - 401230
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_twistLocator7:
+    - 101232
+    - 401232
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform2_L:
+    - 101234
+    - 401234
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintSpine0_M:
+    - 101236
+    - 401236
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineLocator0_M:
+    - 101238
+    - 401238
+    Tony_Barrow_ik1:Tony_Barrow:IKXMiddleToe1_L:
+    - 101240
+    - 401240
+    Tony_Barrow_ik1:Tony_Barrow:IKXBigToe_L:
+    - 101242
+    - 401242
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintShoulder_L:
+    - 101244
+    - 401244
+    Tony_Barrow_ik1:Tony_Barrow:IKFKAlignedSpine_M:
+    - 101246
+    - 401246
+    Tony_Barrow_ik1:Tony_Barrow:IKFake1UpLocSpine_M:
+    - 101248
+    - 401248
+    Tony_Barrow_ik1:Tony_Barrow:IKRollLegToe_L:
+    - 101250
+    - 401250
+    Tony_Barrow_ik1:Tony_Barrow:IKLegHeel_L:
+    - 101252
+    - 401252
+    Tony_Barrow_ik1:Tony_Barrow:IKXChest_M:
+    - 101254
+    - 401254
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintRoot_M:
+    - 101256
+    - 401256
+    Tony_Barrow_ik1:Tony_Barrow:IKXBackB_M:
+    - 101258
+    - 401258
+    Tony_Barrow_ik1:Tony_Barrow:AimSystem:
+    - 101260
+    - 401260
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintHip_L:
+    - 101262
+    - 401262
+    Tony_Barrow_ik1:Tony_Barrow:IKXMiddleToe2_L:
+    - 101264
+    - 401264
+    Tony_Barrow_ik1:Tony_Barrow:NeckBendCurveMid_M:
+    - 101266
+    - 401266
+    Tony_Barrow_ik1:Tony_Barrow:FKIKSpine_M:
+    - 101268
+    - 401268
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLegHeel_L:
+    - 101270
+    - 401270
+    Tony_Barrow_ik1:Tony_Barrow:IKRollLegHeel_L:
+    - 101272
+    - 401272
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintNeck_M:
+    - 101274
+    - 401274
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform2_R:
+    - 101276
+    - 401276
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorNeck_M:
+    - 101278
+    - 401278
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintArm_R:
+    - 101280
+    - 401280
+    Tony_Barrow_ik1:Tony_Barrow:IKFootIndexPivotLeg_R:
+    - 101282
+    - 401282
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKWrist_R:
+    - 101284
+    - 401284
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowShoulder_R:
+    - 101286
+    - 401286
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndElbow_R:
+    - 101288
+    - 401288
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow4_R:
+    - 101290
+    - 401290
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistElbow_R:
+    - 101292
+    - 401292
+    Tony_Barrow_ik1:Tony_Barrow:TwisterShoulder0_R:
+    - 101294
+    - 401294
+    Tony_Barrow_ik1:Tony_Barrow:AimerElbow0_R:
+    - 101296
+    - 401296
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndShoulder_R:
+    - 101298
+    - 401298
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerShoulder_R:
+    - 101300
+    - 401300
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKElbow_R:
+    - 101302
+    - 401302
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowElbow_R:
+    - 101304
+    - 401304
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurveEnd_L:
+    - 101306
+    - 401306
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerElbow_R:
+    - 101308
+    - 401308
+    Tony_Barrow_ik1:Tony_Barrow:BendExtraElbow_L:
+    - 101310
+    - 401310
+    Tony_Barrow_ik1:Tony_Barrow:BendParentConstraintElbow_L:
+    - 101312
+    - 401312
+    Tony_Barrow_ik1:Tony_Barrow:IKXWrist_R:
+    - 101314
+    - 401314
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraint:
+    - 101316
+    - 401316
+    Tony_Barrow_ik1:Tony_Barrow:IKXShoulder_R:
+    - 101318
+    - 401318
+    Tony_Barrow_ik1:Tony_Barrow:HipSwingerRoot_M:
+    - 101320
+    - 401320
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalStaticShoulder_L:
+    - 101322
+    - 401322
+    Tony_Barrow_ik1:Tony_Barrow:IKSystem:
+    - 101324
+    - 401324
+    Tony_Barrow_ik1:Tony_Barrow:FKGlobalStaticShoulder_R:
+    - 101326
+    - 401326
+    Tony_Barrow_ik1:Tony_Barrow:HipSwingerOffsetRoot_M:
+    - 101328
+    - 401328
+    Tony_Barrow_ik1:Tony_Barrow:FKChest_M:
+    - 101330
+    - 401330
+    Tony_Barrow_ik1:Tony_Barrow:FKXBackB_M:
+    - 101332
+    - 401332
+    Tony_Barrow_ik1:Tony_Barrow:AlignIKToChest_M:
+    - 101334
+    - 401334
+    Tony_Barrow_ik1:Tony_Barrow:PoleExtraLeg_L:
+    - 101336
+    - 401336
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraLegToe_L:
+    - 101338
+    - 401338
+    Tony_Barrow_ik1:Tony_Barrow:NeckPointOnCurveXform1_M:
+    - 101340
+    - 401340
+    Tony_Barrow_ik1:Tony_Barrow:IKXMiddleToe2_R:
+    - 101342
+    - 401342
+    Tony_Barrow_ik1:Tony_Barrow:PoleAnnotationArm_R:
+    - 101344
+    - 401344
+    Tony_Barrow_ik1:Tony_Barrow:IKXAnkle_R:
+    - 101346
+    - 401346
+    Tony_Barrow_ik1:Tony_Barrow:PoleAnnotationLeg_R:
+    - 101348
+    - 401348
+    Tony_Barrow_ik1:Tony_Barrow:IKXMiddleToe1_R:
+    - 101350
+    - 401350
+    Tony_Barrow_ik1:Tony_Barrow:IKFKAlignedLeg_R:
+    - 101352
+    - 401352
+    Tony_Barrow_ik1:Tony_Barrow:FKIKSystem:
+    - 101354
+    - 401354
+    Tony_Barrow_ik1:Tony_Barrow:IKLeg_R:
+    - 101356
+    - 401356
+    Tony_Barrow_ik1:Tony_Barrow:IKFootRollLeg_R:
+    - 101358
+    - 401358
+    Tony_Barrow_ik1:Tony_Barrow:Bend0Elbow_R:
+    - 101360
+    - 401360
+    Tony_Barrow_ik1:Tony_Barrow:ElbowBendCurveMid_R:
+    - 101362
+    - 401362
+    Tony_Barrow_ik1:Tony_Barrow:HipPointOnCurveXform2_L:
+    - 101364
+    - 401364
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurve_R:
+    - 101366
+    - 401366
+    Tony_Barrow_ik1:Tony_Barrow:RootCenter_M:
+    - 101368
+    - 401368
+    Tony_Barrow_ik1:Tony_Barrow:RootCenterBtwLegs_M:
+    - 101370
+    - 401370
+    Tony_Barrow_ik1:Tony_Barrow:IKParentConstraintSpine4_M:
+    - 101372
+    - 401372
+    Tony_Barrow_ik1:Tony_Barrow:IKXSpineHandle_M:
+    - 101374
+    - 401374
+    Tony_Barrow_ik1:Tony_Barrow:IKXHeel_R:
+    - 101376
+    - 401376
+    Tony_Barrow_ik1:Tony_Barrow:IKfake1Spine_M:
+    - 101378
+    - 401378
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentElbow_R:
+    - 101380
+    - 401380
+    Tony_Barrow_ik1:Tony_Barrow:IKXWrist_L:
+    - 101382
+    - 401382
+    Tony_Barrow_ik1:Tony_Barrow:PoleAnnotationArm_L:
+    - 101384
+    - 401384
+    Tony_Barrow_ik1:Tony_Barrow:FKIKLeg_L:
+    - 101386
+    - 401386
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurve_L:
+    - 101388
+    - 401388
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistKnee_R:
+    - 101390
+    - 401390
+    Tony_Barrow_ik1:Tony_Barrow:IKXBackA_M:
+    - 101392
+    - 401392
+    Tony_Barrow_ik1:Tony_Barrow:IKFKAlignedArm_L:
+    - 101394
+    - 401394
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerKnee_R:
+    - 101396
+    - 401396
+    Tony_Barrow_ik1:Tony_Barrow:FKIKParentConstraintLeg_R:
+    - 101398
+    - 401398
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentElbow_L:
+    - 101400
+    - 401400
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerHip_R:
+    - 101402
+    - 401402
+    Tony_Barrow_ik1:Tony_Barrow:FKIKArm_R:
+    - 101404
+    - 401404
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleFinger2_R:
+    - 101406
+    - 401406
+    Tony_Barrow_ik1:Tony_Barrow:FKXMiddleFinger1_R:
+    - 101408
+    - 401408
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleFinger2_R:
+    - 101410
+    - 401410
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraMiddleFinger1_R:
+    - 101412
+    - 401412
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetMiddleFinger1_R:
+    - 101414
+    - 401414
+    Tony_Barrow_ik1:Tony_Barrow:FKMiddleFinger1_R:
+    - 101416
+    - 401416
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger3_R:
+    - 101418
+    - 401418
+    Tony_Barrow_ik1:Tony_Barrow:FKRingFinger3_R:
+    - 101420
+    - 401420
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger4_R:
+    - 101422
+    - 401422
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRingFinger3_R:
+    - 101424
+    - 401424
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger2_R:
+    - 101426
+    - 401426
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRingFinger3_R:
+    - 101428
+    - 401428
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRingFinger2_R:
+    - 101430
+    - 401430
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRingFinger2_R:
+    - 101432
+    - 401432
+    Tony_Barrow_ik1:Tony_Barrow:FKRingFinger2_R:
+    - 101434
+    - 401434
+    Tony_Barrow_ik1:Tony_Barrow:FKRingFinger1_R:
+    - 101436
+    - 401436
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraRingFinger1_R:
+    - 101438
+    - 401438
+    Tony_Barrow_ik1:Tony_Barrow:FKXRingFinger1_R:
+    - 101440
+    - 401440
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger4_R:
+    - 101442
+    - 401442
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger3_R:
+    - 101444
+    - 401444
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetRingFinger1_R:
+    - 101446
+    - 401446
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraPinkyFinger3_R:
+    - 101448
+    - 401448
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetPinkyFinger3_R:
+    - 101450
+    - 401450
+    Tony_Barrow_ik1:Tony_Barrow:FKPinkyFinger3_R:
+    - 101452
+    - 401452
+    Tony_Barrow_ik1:Tony_Barrow:FKPinkyFinger2_R:
+    - 101454
+    - 401454
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraPinkyFinger2_R:
+    - 101456
+    - 401456
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger2_R:
+    - 101458
+    - 401458
+    Tony_Barrow_ik1:Tony_Barrow:FKXPinkyFinger1_R:
+    - 101460
+    - 401460
+    Tony_Barrow_ik1:Tony_Barrow:FKPinkyFinger1_R:
+    - 101462
+    - 401462
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetPinkyFinger2_R:
+    - 101464
+    - 401464
+    Tony_Barrow_ik1:Tony_Barrow:FKOffsetPinkyFinger1_R:
+    - 101466
+    - 401466
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraCup_R:
+    - 101468
+    - 401468
+    Tony_Barrow_ik1:Tony_Barrow:FKExtraPinkyFinger1_R:
+    - 101470
+    - 401470
+    Tony_Barrow_ik1:Tony_Barrow:FKXCup_R:
+    - 101472
+    - 401472
+    Tony_Barrow_ik1:Tony_Barrow:IKCrv:
+    - 101474
+    - 401474
+    Tony_Barrow_ik1:Tony_Barrow:PoleParentConstraintLeg_LStatic:
+    - 101476
+    - 401476
+    Tony_Barrow_ik1:Tony_Barrow:PoleAimLeg_R:
+    - 101478
+    - 401478
+    Tony_Barrow_ik1:Tony_Barrow:IKExtraSpine0_M:
+    - 101480
+    - 401480
+    Tony_Barrow_ik1:Tony_Barrow:HipBendCurveMid_R:
+    - 101482
+    - 401482
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPointOnCurveXform3_L:
+    - 101484
+    - 401484
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorKnee_R:
+    - 101486
+    - 401486
+    Tony_Barrow_ik1:Tony_Barrow:HipPart3_R:
+    - 101488
+    - 401488
+    Tony_Barrow_ik1:Tony_Barrow:HipPart4_R:
+    - 101490
+    - 401490
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger1_L:
+    - 101492
+    - 401492
+    Tony_Barrow_ik1:Tony_Barrow:MiddleToe1_R:
+    - 101494
+    - 401494
+    Tony_Barrow_ik1:Tony_Barrow:MiddleToe2_R:
+    - 101496
+    - 401496
+    Tony_Barrow_ik1:Tony_Barrow:BigToe_R:
+    - 101498
+    - 401498
+    Tony_Barrow_ik1:Tony_Barrow:PinkyToe_R:
+    - 101500
+    - 401500
+    Tony_Barrow_ik1:Tony_Barrow:HipPart4_R_tangentConstraint1:
+    - 101502
+    - 401502
+    Tony_Barrow_ik1:Tony_Barrow:HipPart3_R_tangentConstraint1:
+    - 101504
+    - 401504
+    Tony_Barrow_ik1:Tony_Barrow:HipPart2_R_tangentConstraint1:
+    - 101506
+    - 401506
+    Nave_mesh:
+    - 101508
+    - 401508
+    - 3300000
+    - 2300000
+    Tony_Barrow_ik1:Tony_Barrow:HipPart1_R_tangentConstraint1:
+    - 101510
+    - 401510
+    Tony_Barrow_ik1:Tony_Barrow:Hip_L:
+    - 101512
+    - 401512
+    Tony_Barrow_ik1:Tony_Barrow:HipPart1_L:
+    - 101514
+    - 401514
+    Tony_Barrow_ik1:Tony_Barrow:HipPart2_L:
+    - 101516
+    - 401516
+    Tony_Barrow_ik1:Tony_Barrow:HipPart3_L:
+    - 101518
+    - 401518
+    Tony_Barrow_ik1:Tony_Barrow:HipPart4_L:
+    - 101520
+    - 401520
+    Tony_Barrow_ik1:Tony_Barrow:Knee_L:
+    - 101522
+    - 401522
+    Tony_Barrow_ik1:Tony_Barrow:Ankle_L:
+    - 101524
+    - 401524
+    Tony_Barrow_ik1:Tony_Barrow:MiddleToe1_L:
+    - 101526
+    - 401526
+    Tony_Barrow_ik1:Tony_Barrow:MiddleToe2_L:
+    - 101528
+    - 401528
+    Tony_Barrow_ik1:Tony_Barrow:BigToe_L:
+    - 101530
+    - 401530
+    Tony_Barrow_ik1:Tony_Barrow:PinkyToe_L:
+    - 101532
+    - 401532
+    Tony_Barrow_ik1:Tony_Barrow:HipPart4_L_tangentConstraint1:
+    - 101534
+    - 401534
+    Tony_Barrow_ik1:Tony_Barrow:HipPart3_L_tangentConstraint1:
+    - 101536
+    - 401536
+    Tony_Barrow_ik1:Tony_Barrow:HipPart2_L_tangentConstraint1:
+    - 101538
+    - 401538
+    Tony_Barrow_ik1:Tony_Barrow:Knee_R:
+    - 101540
+    - 401540
+    //RootNode:
+    - 101542
+    - 401542
+    - 11100000
+    Tony_Barrow_ik1:pSphere1:
+    - 101544
+    - 401544
+    - 13700000
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger3_L:
+    - 101546
+    - 401546
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger2_L:
+    - 101548
+    - 401548
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixElbow_L:
+    - 101550
+    - 401550
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow0_L:
+    - 101552
+    - 401552
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow3_L:
+    - 101554
+    - 401554
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow2_L:
+    - 101556
+    - 401556
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow4_L:
+    - 101558
+    - 401558
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerElbow_L:
+    - 101560
+    - 401560
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndElbow_L:
+    - 101562
+    - 401562
+    Tony_Barrow_ik1:Tony_Barrow:AimerElbow0_L:
+    - 101564
+    - 401564
+    Tony_Barrow_ik1:Tony_Barrow:TwisterElbow1_L:
+    - 101566
+    - 401566
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowShoulder_L:
+    - 101568
+    - 401568
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentShoulder_L:
+    - 101570
+    - 401570
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKShoulder_L:
+    - 101572
+    - 401572
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetShoulder_L:
+    - 101574
+    - 401574
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorElbow_L:
+    - 101576
+    - 401576
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixShoulder_L:
+    - 101578
+    - 401578
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerShoulder_L:
+    - 101580
+    - 401580
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndShoulder_L:
+    - 101582
+    - 401582
+    Tony_Barrow_ik1:Tony_Barrow:TwisterShoulder0_L:
+    - 101584
+    - 401584
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistElbow_L:
+    - 101586
+    - 401586
+    Tony_Barrow_ik1:Tony_Barrow:TwisterShoulder2_L:
+    - 101588
+    - 401588
+    Tony_Barrow_ik1:Tony_Barrow:TwisterShoulder1_L:
+    - 101590
+    - 401590
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorShoulder_L:
+    - 101592
+    - 401592
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistShoulder_L:
+    - 101594
+    - 401594
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKKnee_L:
+    - 101596
+    - 401596
+    Tony_Barrow_ik1:pSphere2:
+    - 101598
+    - 401598
+    - 13700002
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetKnee_L:
+    - 101600
+    - 401600
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentKnee_L:
+    - 101602
+    - 401602
+    Tony_Barrow_ik1:Tony_Barrow:Ankle_R:
+    - 101604
+    - 401604
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixKnee_L:
+    - 101606
+    - 401606
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowKnee_L:
+    - 101608
+    - 401608
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndKnee_L:
+    - 101610
+    - 401610
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorKnee_L:
+    - 101612
+    - 401612
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerKnee_L:
+    - 101614
+    - 401614
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistKnee_L:
+    - 101616
+    - 401616
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistIKHip_L:
+    - 101618
+    - 401618
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixOffsetHip_L:
+    - 101620
+    - 401620
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowParentHip_L:
+    - 101622
+    - 401622
+    Tony_Barrow_ik1:Tony_Barrow:FKIKMixHip_L:
+    - 101624
+    - 401624
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistHip_L:
+    - 101626
+    - 401626
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistEndHip_L:
+    - 101628
+    - 401628
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip0_L:
+    - 101630
+    - 401630
+    Tony_Barrow_ik1:Tony_Barrow:TwistBalancerHip_L:
+    - 101632
+    - 401632
+    Tony_Barrow_ik1:Tony_Barrow:TwistFollowHip_L:
+    - 101634
+    - 401634
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip1_L:
+    - 101636
+    - 401636
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip3_L:
+    - 101638
+    - 401638
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip2_L:
+    - 101640
+    - 401640
+    Tony_Barrow_ik1:Tony_Barrow:AimerHip0_L:
+    - 101642
+    - 401642
+    Tony_Barrow_ik1:Tony_Barrow:UnTwistPoleVectorHip_L:
+    - 101644
+    - 401644
+    Tony_Barrow_ik1:Tony_Barrow:Root_M:
+    - 101646
+    - 401646
+    Tony_Barrow_ik1:Tony_Barrow:DeformationSystem:
+    - 101648
+    - 401648
+    Tony_Barrow_ik1:Tony_Barrow:BackA_M:
+    - 101650
+    - 401650
+    Tony_Barrow_ik1:Tony_Barrow:TwisterHip4_L:
+    - 101652
+    - 401652
+    Tony_Barrow_ik1:Tony_Barrow:Scapula_R:
+    - 101654
+    - 401654
+    Tony_Barrow_ik1:Tony_Barrow:Chest_M:
+    - 101656
+    - 401656
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_R:
+    - 101658
+    - 401658
+    Tony_Barrow_ik1:Tony_Barrow:AimerShoulder0_L:
+    - 101660
+    - 401660
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart2_R:
+    - 101662
+    - 401662
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart1_R:
+    - 101664
+    - 401664
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_R:
+    - 101666
+    - 401666
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart1_R:
+    - 101668
+    - 401668
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart3_R:
+    - 101670
+    - 401670
+    Tony_Barrow_ik1:Tony_Barrow:Wrist_R:
+    - 101672
+    - 401672
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart4_R:
+    - 101674
+    - 401674
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart2_R:
+    - 101676
+    - 401676
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger2_R:
+    - 101678
+    - 401678
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger4_R:
+    - 101680
+    - 401680
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger3_R:
+    - 101682
+    - 401682
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger1_R:
+    - 101684
+    - 401684
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger2_R:
+    - 101686
+    - 401686
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger4_R:
+    - 101688
+    - 401688
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger3_R:
+    - 101690
+    - 401690
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger1_R:
+    - 101692
+    - 401692
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger1_R:
+    - 101694
+    - 401694
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger3_R:
+    - 101696
+    - 401696
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger2_R:
+    - 101698
+    - 401698
+    Tony_Barrow_ik1:Tony_Barrow:Cup_R:
+    - 101700
+    - 401700
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger1_R:
+    - 101702
+    - 401702
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger3_R:
+    - 101704
+    - 401704
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger2_R:
+    - 101706
+    - 401706
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger4_R:
+    - 101708
+    - 401708
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger1_R:
+    - 101710
+    - 401710
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger3_R:
+    - 101712
+    - 401712
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger2_R:
+    - 101714
+    - 401714
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger4_R:
+    - 101716
+    - 401716
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger4_R:
+    - 101718
+    - 401718
+    Tony_Barrow_ik1:Tony_Barrow:RingFinger4_L:
+    - 101720
+    - 401720
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart3_R_tangentConstraint1:
+    - 101722
+    - 401722
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart1_R_tangentConstraint1:
+    - 101724
+    - 401724
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart2_R_tangentConstraint1:
+    - 101726
+    - 401726
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger1_L:
+    - 101728
+    - 401728
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart2_R_tangentConstraint1:
+    - 101730
+    - 401730
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger2_L:
+    - 101732
+    - 401732
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart1_R_tangentConstraint1:
+    - 101734
+    - 401734
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger3_L:
+    - 101736
+    - 401736
+    Tony_Barrow_ik1:Tony_Barrow:BackB_M:
+    - 101738
+    - 401738
+    Tony_Barrow_ik1:Tony_Barrow:NeckPart2_M:
+    - 101740
+    - 401740
+    Tony_Barrow_ik1:Tony_Barrow:NeckPart1_M:
+    - 101742
+    - 401742
+    Tony_Barrow_ik1:Tony_Barrow:Head_M:
+    - 101744
+    - 401744
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart4_R_tangentConstraint1:
+    - 101746
+    - 401746
+    Tony_Barrow_ik1:Tony_Barrow:JawEnd_M:
+    - 101748
+    - 401748
+    Tony_Barrow_ik1:Tony_Barrow:Jaw_M:
+    - 101750
+    - 401750
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart4_L_tangentConstraint1:
+    - 101752
+    - 401752
+    Tony_Barrow_ik1:Tony_Barrow:MiddleFinger4_L:
+    - 101754
+    - 401754
+    Tony_Barrow_ik1:Head:
+    - 101756
+    - 401756
+    Tony_Barrow_ik1:polySurface2:
+    - 101758
+    - 401758
+    - 3300002
+    - 2300002
+    Tony_Barrow_ik1:polySurface3:
+    - 101760
+    - 401760
+    - 3300004
+    - 2300004
+    Tony_Barrow_ik1:polySurface4:
+    - 101762
+    - 401762
+    - 3300006
+    - 2300006
+    Tony_Barrow_ik1:polySurface5:
+    - 101764
+    - 401764
+    - 3300008
+    - 2300008
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart3_L_tangentConstraint1:
+    - 101766
+    - 401766
+    Tony_Barrow_ik1:Tony_Barrow:HipPart1_L_tangentConstraint1:
+    - 101768
+    - 401768
+    Tony_Barrow_ik1:pPlane1:
+    - 101770
+    - 401770
+    - 13700004
+    Tony_Barrow_ik1:Tony_Barrow:Neck_M:
+    - 101772
+    - 401772
+    Tony_Barrow_ik1:Tony_Barrow:NeckPart2_M_tangentConstraint1:
+    - 101774
+    - 401774
+    Tony_Barrow_ik1:Tony_Barrow:Geometry:
+    - 101776
+    - 401776
+    Tony_Barrow_ik1:pCube1:
+    - 101778
+    - 401778
+    - 13700006
+    Tony_Barrow_ik1:Tony_Barrow:Scapula_L:
+    - 101780
+    - 401780
+    Tony_Barrow_ik1:Tony_Barrow:NeckPart1_M_tangentConstraint1:
+    - 101782
+    - 401782
+    Tony_Barrow_ik1:Tony_Barrow:Shoulder_L:
+    - 101784
+    - 401784
+    Tony_Barrow_ik1:Tony_Barrow:Hair_M:
+    - 101786
+    - 401786
+    Tony_Barrow_ik1:Tony_Barrow:Elbow_L:
+    - 101788
+    - 401788
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart2_L:
+    - 101790
+    - 401790
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart1_L:
+    - 101792
+    - 401792
+    Tony_Barrow_ik1:pCube3:
+    - 101794
+    - 401794
+    - 3300010
+    - 2300010
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart4_L:
+    - 101796
+    - 401796
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart3_L:
+    - 101798
+    - 401798
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart2_L_tangentConstraint1:
+    - 101800
+    - 401800
+    Tony_Barrow_ik1:Tony_Barrow:Wrist_L:
+    - 101802
+    - 401802
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart1_L:
+    - 101804
+    - 401804
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger3_L:
+    - 101806
+    - 401806
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger2_L:
+    - 101808
+    - 401808
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart1_L_tangentConstraint1:
+    - 101810
+    - 401810
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger4_L:
+    - 101812
+    - 401812
+    Tony_Barrow_ik1:Tony_Barrow:ElbowPart2_L:
+    - 101814
+    - 401814
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger3_L:
+    - 101816
+    - 401816
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger2_L:
+    - 101818
+    - 401818
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger4_L:
+    - 101820
+    - 401820
+    Tony_Barrow_ik1:Tony_Barrow:ThumbFinger1_L:
+    - 101822
+    - 401822
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger2_L:
+    - 101824
+    - 401824
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger1_L:
+    - 101826
+    - 401826
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart2_L_tangentConstraint1:
+    - 101828
+    - 401828
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger3_L:
+    - 101830
+    - 401830
+    Tony_Barrow_ik1:Tony_Barrow:IndexFinger1_L:
+    - 101832
+    - 401832
+    Tony_Barrow_ik1:polySurface1:
+    - 101834
+    - 401834
+    - 13700008
+    Tony_Barrow_ik1:pCube2:
+    - 101836
+    - 401836
+    - 13700010
+    Tony_Barrow_ik1:pCube4:
+    - 101838
+    - 401838
+    - 13700012
+    Tony_Barrow_ik1:Tony_Barrow:PinkyFinger4_L:
+    - 101840
+    - 401840
+    Tony_Barrow_ik1:Tony_Barrow:ShoulderPart1_L_tangentConstraint1:
+    - 101842
+    - 401842
+    canhao_esq:
+    - 101844
+    - 401844
+    - 3300012
+    - 2300012
+    Tony_Barrow_ik1:Tony_Barrow:HipPart1_R:
+    - 101846
+    - 401846
+    Tony_Barrow_ik1:Tony_Barrow:Hip_R:
+    - 101848
+    - 401848
+    canhao_dir:
+    - 101850
+    - 401850
+    - 3300014
+    - 2300014
+    Tony_Barrow_ik1:Tony_Barrow:Cup_L:
+    - 101852
+    - 401852
+    Tony_Barrow_ik1:Tony_Barrow:HipPart2_R:
+    - 101854
+    - 401854
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Tony_Barrow_ik1:polySurface2
+    4300002: Tony_Barrow_ik1:polySurface3
+    4300004: Tony_Barrow_ik1:polySurface4
+    4300006: Tony_Barrow_ik1:polySurface5
+    4300008: Tony_Barrow_ik1:pCube3
+    4300010: Tony_Barrow_ik1:pCube1
+    4300012: Tony_Barrow_ik1:polySurface1
+    4300014: Tony_Barrow_ik1:pCube4
+    4300016: Tony_Barrow_ik1:pSphere1
+    4300018: Tony_Barrow_ik1:pSphere2
+    4300020: Tony_Barrow_ik1:pPlane1
+    4300022: Tony_Barrow_ik1:pCube2
+    4300024: canhao_esq
+    4300026: canhao_dir
+    4300028: Nave_mesh

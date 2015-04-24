@@ -1,0 +1,169 @@
+fileFormatVersion: 1
+guid: 0b3751cff46ea488680e8f40d06a4992
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Arm_1_4.r:
+    - 100000
+    - 400000
+    Arm_1_2.r:
+    - 100002
+    - 400002
+    Spine2:
+    - 100004
+    - 400004
+    Arm_1_5.r:
+    - 100006
+    - 400006
+    Spine3:
+    - 100008
+    - 400008
+    Wing_1.r:
+    - 100010
+    - 400010
+    Head:
+    - 100012
+    - 400012
+    Wing_1.l:
+    - 100014
+    - 400014
+    Leg_1_4.r:
+    - 100016
+    - 400016
+    Leg_1_4.l:
+    - 100018
+    - 400018
+    Leg_1_2.r:
+    - 100020
+    - 400020
+    Leg_1_2.l:
+    - 100022
+    - 400022
+    Leg_1_5.l:
+    - 100024
+    - 400024
+    Arm_1_5.l:
+    - 100026
+    - 400026
+    Leg_1_3.l:
+    - 100028
+    - 400028
+    Arm_1_3.l:
+    - 100030
+    - 400030
+    Leg_1_1.l:
+    - 100032
+    - 400032
+    Arm_1_1.l:
+    - 100034
+    - 400034
+    Arm_1_4.l:
+    - 100036
+    - 400036
+    Arm_2_4.l:
+    - 100038
+    - 400038
+    Arm_1_2.l:
+    - 100040
+    - 400040
+    Arm_2_2.l:
+    - 100042
+    - 400042
+    Arm_2_5.l:
+    - 100044
+    - 400044
+    Arm_2_5.r:
+    - 100046
+    - 400046
+    Arm_2_3.l:
+    - 100048
+    - 400048
+    Arm_2_3.r:
+    - 100050
+    - 400050
+    Arm_2_1.l:
+    - 100052
+    - 400052
+    Wing_2.r:
+    - 100054
+    - 400054
+    Arm_2_4.r:
+    - 100056
+    - 400056
+    Arm_2_1.r:
+    - 100058
+    - 400058
+    Wing_2.l:
+    - 100060
+    - 400060
+    Arm_2_2.r:
+    - 100062
+    - 400062
+    Spine1:
+    - 100064
+    - 400064
+    Arm_1_3.r:
+    - 100066
+    - 400066
+    Body:
+    - 100068
+    - 400068
+    - 13700000
+    Arm_1_1.r:
+    - 100070
+    - 400070
+    Nose:
+    - 100072
+    - 400072
+    - 13700002
+    Armature:
+    - 100074
+    - 400074
+    //RootNode:
+    - 100076
+    - 400076
+    - 11100000
+    Left_Eye:
+    - 100078
+    - 400078
+    - 13700004
+    Right_Eye:
+    - 100080
+    - 400080
+    - 13700006
+    Leg_1_3.r:
+    - 100082
+    - 400082
+    Leg_1_1.r:
+    - 100084
+    - 400084
+    Leg_1_5.r:
+    - 100086
+    - 400086
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Nose
+    4300004: Left_Eye
+    4300006: Body
+    7400000: Fly //// Fly

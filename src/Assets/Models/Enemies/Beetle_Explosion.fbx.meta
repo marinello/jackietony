@@ -1,0 +1,101 @@
+fileFormatVersion: 1
+guid: 703587318275f83438ad4339b96bc7c6
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 1
+    splitAnimations: 1
+  nodeInfo:
+    Arm_2_1.l:
+    - 100000
+    - 400000
+    Spine2:
+    - 100002
+    - 400002
+    Spine1:
+    - 100004
+    - 400004
+    Arm_2_2.r:
+    - 100006
+    - 400006
+    Body:
+    - 100008
+    - 400008
+    - 13700000
+    Arm_2_2.l:
+    - 100010
+    - 400010
+    Arm_2_1.r:
+    - 100012
+    - 400012
+    Lamp:
+    - 100014
+    - 400014
+    Right_Eye:
+    - 100016
+    - 400016
+    - 13700002
+    Spine3:
+    - 100018
+    - 400018
+    Arm_1_2.l:
+    - 100020
+    - 400020
+    Armature:
+    - 100022
+    - 400022
+    Head.001:
+    - 100024
+    - 400024
+    Arm_1_1.r:
+    - 100026
+    - 400026
+    Head.002:
+    - 100028
+    - 400028
+    Head:
+    - 100030
+    - 400030
+    - 13700004
+    Arm_1_1.l:
+    - 100032
+    - 400032
+    Head_0:
+    - 100034
+    - 400034
+    Arm_1_2.r:
+    - 100036
+    - 400036
+    //RootNode:
+    - 100038
+    - 400038
+    - 11100000
+    Left_Eye:
+    - 100040
+    - 400040
+    - 13700006
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Head
+    4300006: Body
+    7400000: Default Take //// besouro_explosion
+    7400002: Default Take //// Beetle_Explosion

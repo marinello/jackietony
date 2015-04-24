@@ -1,0 +1,100 @@
+fileFormatVersion: 1
+guid: 0cc63fa5dac9b4bea97cbf75a4a0dd6f
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Spine1:
+    - 100000
+    - 400000
+    Left_Eye:
+    - 100002
+    - 400002
+    - 13700000
+    master:
+    - 100004
+    - 400004
+    //RootNode:
+    - 100006
+    - 400006
+    - 11100000
+    Body:
+    - 100008
+    - 400008
+    - 13700002
+    Spine4:
+    - 100010
+    - 400010
+    Arm1_1.r:
+    - 100012
+    - 400012
+    Arm2_1.l:
+    - 100014
+    - 400014
+    Arm2_1.r:
+    - 100016
+    - 400016
+    Head:
+    - 100018
+    - 400018
+    - 13700004
+    Right_Eye:
+    - 100020
+    - 400020
+    - 13700006
+    Head_0:
+    - 100022
+    - 400022
+    Arm1_2.l:
+    - 100024
+    - 400024
+    Arm2_2.l:
+    - 100026
+    - 400026
+    Spine2:
+    - 100028
+    - 400028
+    Spine3:
+    - 100030
+    - 400030
+    Eyes:
+    - 100032
+    - 400032
+    Arm1_1.l:
+    - 100034
+    - 400034
+    Armature:
+    - 100036
+    - 400036
+    Arm2_2.r:
+    - 100038
+    - 400038
+    Arm1_2.r:
+    - 100040
+    - 400040
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Head
+    4300006: Body
+    7400000: Fly //// Wasp

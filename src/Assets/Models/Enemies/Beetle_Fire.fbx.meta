@@ -1,0 +1,91 @@
+fileFormatVersion: 1
+guid: 36fb8685151da784f9f73c472e229e28
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    Body:
+    - 100002
+    - 400002
+    - 13700000
+    Spine3:
+    - 100004
+    - 400004
+    Head_0:
+    - 100006
+    - 400006
+    Arm_1_1.l:
+    - 100008
+    - 400008
+    Arm_2_1.l:
+    - 100010
+    - 400010
+    Arm_1_2.l:
+    - 100012
+    - 400012
+    Right_Eye:
+    - 100014
+    - 400014
+    - 13700002
+    Left_Eye:
+    - 100016
+    - 400016
+    - 13700004
+    Arm_2_2.l:
+    - 100018
+    - 400018
+    Armature:
+    - 100020
+    - 400020
+    Spine1:
+    - 100022
+    - 400022
+    Spine2:
+    - 100024
+    - 400024
+    Arm_2_1.r:
+    - 100026
+    - 400026
+    Head:
+    - 100028
+    - 400028
+    - 13700006
+    Arm_2_2.r:
+    - 100030
+    - 400030
+    Arm_1_1.r:
+    - 100032
+    - 400032
+    Arm_1_2.r:
+    - 100034
+    - 400034
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Head
+    4300006: Body
+    7400000: Default Take //// Beetle_Fire

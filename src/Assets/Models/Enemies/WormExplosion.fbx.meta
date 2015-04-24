@@ -1,0 +1,188 @@
+fileFormatVersion: 1
+guid: 58be03b220058994a9698c40a3bec178
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 1
+    splitAnimations: 0
+  nodeInfo:
+    Spine50.004:
+    - 100000
+    - 400000
+    Body09:
+    - 100002
+    - 400002
+    - 13700000
+    Head1:
+    - 100004
+    - 400004
+    Body08:
+    - 100006
+    - 400006
+    - 13700002
+    Camera:
+    - 100008
+    - 400008
+    Spine40:
+    - 100010
+    - 400010
+    Body06:
+    - 100012
+    - 400012
+    - 13700004
+    Body05:
+    - 100014
+    - 400014
+    - 13700006
+    Body07:
+    - 100016
+    - 400016
+    - 13700008
+    Body10:
+    - 100018
+    - 400018
+    - 13700010
+    Body01:
+    - 100020
+    - 400020
+    - 13700012
+    Body13:
+    - 100022
+    - 400022
+    - 13700014
+    Body03:
+    - 100024
+    - 400024
+    - 13700016
+    Armature:
+    - 100026
+    - 400026
+    Spine50:
+    - 100028
+    - 400028
+    Head:
+    - 100030
+    - 400030
+    - 13700018
+    Head1.003:
+    - 100032
+    - 400032
+    Spine10:
+    - 100034
+    - 400034
+    Spine50.007:
+    - 100036
+    - 400036
+    Body04:
+    - 100038
+    - 400038
+    - 13700020
+    Lamp:
+    - 100040
+    - 400040
+    Spine50.006:
+    - 100042
+    - 400042
+    //RootNode:
+    - 100044
+    - 400044
+    - 11100000
+    Spine50.003:
+    - 100046
+    - 400046
+    Body14:
+    - 100048
+    - 400048
+    - 13700022
+    Spine20:
+    - 100050
+    - 400050
+    Body11:
+    - 100052
+    - 400052
+    - 13700024
+    Spine50.005:
+    - 100054
+    - 400054
+    Body02:
+    - 100056
+    - 400056
+    - 13700026
+    Body15:
+    - 100058
+    - 400058
+    - 13700028
+    Head1.001:
+    - 100060
+    - 400060
+    Head1.002:
+    - 100062
+    - 400062
+    Eye_Left:
+    - 100064
+    - 400064
+    - 13700030
+    Spine30:
+    - 100066
+    - 400066
+    Head1.004:
+    - 100068
+    - 400068
+    Spine50.001:
+    - 100070
+    - 400070
+    Eye_Right:
+    - 100072
+    - 400072
+    - 13700032
+    Body16:
+    - 100074
+    - 400074
+    - 13700034
+    Spine50.002:
+    - 100076
+    - 400076
+    Body12:
+    - 100078
+    - 400078
+    - 13700036
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Eye_Right
+    4300002: Body08
+    4300004: Body07
+    4300006: Body06
+    4300008: Body05
+    4300010: Body04
+    4300012: Body15
+    4300014: Body14
+    4300016: Body13
+    4300018: Body12
+    4300020: Body11
+    4300022: Body10
+    4300024: Body09
+    4300026: Body03
+    4300028: Body02
+    4300030: Eye_Left
+    4300032: Head
+    4300034: Body16
+    4300036: Body01
+    7400000: Default Take //// lacraia_explosion
+    7400002: Default Take //// WormExplosion

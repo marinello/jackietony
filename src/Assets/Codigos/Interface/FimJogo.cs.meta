@@ -1,0 +1,6 @@
+fileFormatVersion: 1
+guid: 3ba24611d9834514598d8efb9eb77990
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    aparencia: {fileID: 11400000, guid: 7757a56bd4ec5b64f9d02e17efb720e0, type: 2}

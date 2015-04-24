@@ -1,0 +1,94 @@
+fileFormatVersion: 1
+guid: 76328509ab3da4bf4aa7cbb2d399a693
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Arm_2_2.l:
+    - 100000
+    - 400000
+    Arm_1_2.l:
+    - 100002
+    - 400002
+    Head_0:
+    - 100004
+    - 400004
+    Arm_2_1.l:
+    - 100006
+    - 400006
+    Arm_1_2.r:
+    - 100008
+    - 400008
+    Arm_1_1.l:
+    - 100010
+    - 400010
+    Arm_2_2.r:
+    - 100012
+    - 400012
+    Spine3:
+    - 100014
+    - 400014
+    Spine2:
+    - 100016
+    - 400016
+    Arm_1_1.r:
+    - 100018
+    - 400018
+    Armature:
+    - 100020
+    - 400020
+    Arm_2_1.r:
+    - 100022
+    - 400022
+    Body:
+    - 100024
+    - 400024
+    - 13700000
+    Spine1:
+    - 100026
+    - 400026
+    Left_Eye:
+    - 100028
+    - 400028
+    - 13700002
+    Lamp:
+    - 100030
+    - 400030
+    Head:
+    - 100032
+    - 400032
+    - 13700004
+    //RootNode:
+    - 100034
+    - 400034
+    - 11100000
+    Right_Eye:
+    - 100036
+    - 400036
+    - 13700006
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Head
+    4300006: Body
+    7400000: Default Take //// Beetle

@@ -1,0 +1,1088 @@
+fileFormatVersion: 1
+guid: 7e6b8c1d06e124954b8e1eb5e4fb6caf
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.45
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Jack_iK:lPinkie1J:
+    - 100000
+    - 400000
+    Jack_iK:rClavicleJ:
+    - 100002
+    - 400002
+    Jack_iK:lPinkieTipJ:
+    - 100004
+    - 400004
+    itens_nave:pCube15:
+    - 100006
+    - 400006
+    - 3300000
+    - 2300000
+    itens_nave:pCube14:
+    - 100008
+    - 400008
+    - 3300002
+    - 2300002
+    itens_nave:pCube16:
+    - 100010
+    - 400010
+    - 3300004
+    - 2300004
+    Jack_iK:rShoulderJFK:
+    - 100012
+    - 400012
+    Jack_iK:rShoulderJIK:
+    - 100014
+    - 400014
+    Jack_iK:lWristJIK:
+    - 100016
+    - 400016
+    itens_nave:pCube4:
+    - 100018
+    - 400018
+    - 3300006
+    - 2300006
+    naveitem8:
+    - 100020
+    - 400020
+    - 3300008
+    - 2300008
+    naveitem7:
+    - 100022
+    - 400022
+    itens_nave:pCube2:
+    - 100024
+    - 400024
+    - 3300010
+    - 2300010
+    naveitem9:
+    - 100026
+    - 400026
+    - 3300012
+    - 2300012
+    naveitem10:
+    - 100028
+    - 400028
+    - 3300014
+    - 2300014
+    Jack_iK:rPinkie1C:
+    - 100030
+    - 400030
+    Jack_iK:rPinkie2CG:
+    - 100032
+    - 400032
+    Jack_iK:rHipFKC:
+    - 100034
+    - 400034
+    Jack_iK:rPinkie3CG:
+    - 100036
+    - 400036
+    Jack_iK:rKneeFKC:
+    - 100038
+    - 400038
+    Jack_iK:rPinkie1CG:
+    - 100040
+    - 400040
+    Jack_iK:rAnkleFKC:
+    - 100042
+    - 400042
+    Jack_iK:rHipFKCG:
+    - 100044
+    - 400044
+    Jack_iK:rBallFKC:
+    - 100046
+    - 400046
+    Jack_iK:rKneeFKCG:
+    - 100048
+    - 400048
+    Jack_iK:rKneeIKC:
+    - 100050
+    - 400050
+    Jack_iK:rAnkleFKCG:
+    - 100052
+    - 400052
+    Jack_iK:rLegIKHandle:
+    - 100054
+    - 400054
+    Jack_iK:rBallFKCG:
+    - 100056
+    - 400056
+    Jack_iK:rFootBallPivot:
+    - 100058
+    - 400058
+    Jack_iK:rKneeIKCG:
+    - 100060
+    - 400060
+    Jack_iK:rFootToePivot:
+    - 100062
+    - 400062
+    Jack_iK:rBallIKHandle:
+    - 100064
+    - 400064
+    Jack_iK:rFootIKCG:
+    - 100066
+    - 400066
+    Jack_iK:rToeIKHandle:
+    - 100068
+    - 400068
+    Jack_iK:lLegSwitchC:
+    - 100070
+    - 400070
+    Jack_iK:rFootIKC:
+    - 100072
+    - 400072
+    Jack_iK:rArmIKHandle:
+    - 100074
+    - 400074
+    Jack_iK:lArmIKHandle:
+    - 100076
+    - 400076
+    Jack_iK:DSN_lKneeParentUpG:
+    - 100078
+    - 400078
+    Jack_iK:lLegSwitchCG:
+    - 100080
+    - 400080
+    Jack_iK:rLegSwitchCG:
+    - 100082
+    - 400082
+    Jack_iK:rLegSwitchC:
+    - 100084
+    - 400084
+    Jack_iK:rRing2J:
+    - 100086
+    - 400086
+    Jack_iK:rPinkie1J:
+    - 100088
+    - 400088
+    Jack_iK:rRing1J:
+    - 100090
+    - 400090
+    Jack_iK:rRing3J:
+    - 100092
+    - 400092
+    Jack_iK:rMiddle2J:
+    - 100094
+    - 400094
+    Jack_iK:rMiddle3J:
+    - 100096
+    - 400096
+    Jack_iK:rMiddleTipJ:
+    - 100098
+    - 400098
+    Jack_iK:rThumb3J:
+    - 100100
+    - 400100
+    Jack_iK:rIndex3J:
+    - 100102
+    - 400102
+    Jack_iK:rMiddle1J:
+    - 100104
+    - 400104
+    Jack_iK:rIndex1J:
+    - 100106
+    - 400106
+    Jack_iK:rIndexTipJ:
+    - 100108
+    - 400108
+    group1:
+    - 100110
+    - 400110
+    Jack_iK:rToeJ:
+    - 100112
+    - 400112
+    Jack_iK:rBallJ:
+    - 100114
+    - 400114
+    naveitem11:
+    - 100116
+    - 400116
+    - 3300016
+    - 2300016
+    Jack_iK:rKneeJ:
+    - 100118
+    - 400118
+    itens_nave:pCube11:
+    - 100120
+    - 400120
+    - 3300018
+    - 2300018
+    itens_nave:pCube13:
+    - 100122
+    - 400122
+    - 3300020
+    - 2300020
+    itens_nave:pCube12:
+    - 100124
+    - 400124
+    - 3300022
+    - 2300022
+    itens_nave:pCube9:
+    - 100126
+    - 400126
+    - 3300024
+    - 2300024
+    itens_nave:pCube10:
+    - 100128
+    - 400128
+    - 3300026
+    - 2300026
+    itens_nave:pCube7:
+    - 100130
+    - 400130
+    - 3300028
+    - 2300028
+    itens_nave:pCube8:
+    - 100132
+    - 400132
+    - 3300030
+    - 2300030
+    itens_nave:pCube5:
+    - 100134
+    - 400134
+    - 3300032
+    - 2300032
+    Jack_iK:lAnkleFKC:
+    - 100136
+    - 400136
+    Jack_iK:lHipFKCG:
+    - 100138
+    - 400138
+    Jack_iK:lBallFKC:
+    - 100140
+    - 400140
+    Jack_iK:lKneeFKCG:
+    - 100142
+    - 400142
+    Jack_iK:lKneeIKC:
+    - 100144
+    - 400144
+    Jack_iK:lAnkleFKCG:
+    - 100146
+    - 400146
+    Jack_iK:lLegIKHandle:
+    - 100148
+    - 400148
+    Jack_iK:lBallFKCG:
+    - 100150
+    - 400150
+    Jack_iK:lFootBallPivot:
+    - 100152
+    - 400152
+    Jack_iK:lKneeIKCG:
+    - 100154
+    - 400154
+    Jack_iK:lFootToePivot:
+    - 100156
+    - 400156
+    Jack_iK:lBallIKHandle:
+    - 100158
+    - 400158
+    Jack_iK:lFootIKCG:
+    - 100160
+    - 400160
+    Jack_iK:lToeIKHandle:
+    - 100162
+    - 400162
+    Jack_iK:rClavicleCG:
+    - 100164
+    - 400164
+    Jack_iK:lFootIKC:
+    - 100166
+    - 400166
+    Jack_iK:rShoulderFKCG:
+    - 100168
+    - 400168
+    Jack_iK:rClavicleC:
+    - 100170
+    - 400170
+    Jack_iK:rElbowFKCG:
+    - 100172
+    - 400172
+    Jack_iK:rShoulderFKC:
+    - 100174
+    - 400174
+    Jack_iK:rWristFKCG:
+    - 100176
+    - 400176
+    Jack_iK:rElbowFKC:
+    - 100178
+    - 400178
+    Jack_iK:rElbowIKC:
+    - 100180
+    - 400180
+    Jack_iK:rWristFKC:
+    - 100182
+    - 400182
+    Jack_iK:rArmSwitchCG:
+    - 100184
+    - 400184
+    Jack_iK:rWristIKC:
+    - 100186
+    - 400186
+    Jack_iK:rElbowIKCG:
+    - 100188
+    - 400188
+    Jack_iK:rArmSwitchC:
+    - 100190
+    - 400190
+    Jack_iK:rWristIKCG:
+    - 100192
+    - 400192
+    Jack_iK:lIndex2CG:
+    - 100194
+    - 400194
+    Jack_iK:lThumb1C:
+    - 100196
+    - 400196
+    Jack_iK:lIndex3CG:
+    - 100198
+    - 400198
+    Jack_iK:lIndex2C:
+    - 100200
+    - 400200
+    Jack_iK:lIndex1CG:
+    - 100202
+    - 400202
+    Jack_iK:lIndex3C:
+    - 100204
+    - 400204
+    Jack_iK:lMiddle2CG:
+    - 100206
+    - 400206
+    Jack_iK:lIndex1C:
+    - 100208
+    - 400208
+    Jack_iK:lMiddle3CG:
+    - 100210
+    - 400210
+    Jack_iK:lMiddle2C:
+    - 100212
+    - 400212
+    Jack_iK:lMiddle1CG:
+    - 100214
+    - 400214
+    Jack_iK:lMiddle3C:
+    - 100216
+    - 400216
+    Jack_iK:lRing2CG:
+    - 100218
+    - 400218
+    Jack_iK:lMiddle1C:
+    - 100220
+    - 400220
+    Jack_iK:lRing3CG:
+    - 100222
+    - 400222
+    Jack_iK:lRing2C:
+    - 100224
+    - 400224
+    Jack_iK:lRing1CG:
+    - 100226
+    - 400226
+    Jack_iK:lRing3C:
+    - 100228
+    - 400228
+    Jack_iK:lPinkie2CG:
+    - 100230
+    - 400230
+    Jack_iK:lRing1C:
+    - 100232
+    - 400232
+    Jack_iK:lPinkie3CG:
+    - 100234
+    - 400234
+    Jack_iK:lPinkie2C:
+    - 100236
+    - 400236
+    Jack_iK:lHipFKC:
+    - 100238
+    - 400238
+    Jack_iK:lPinkie3C:
+    - 100240
+    - 400240
+    Jack_iK:lKneeFKC:
+    - 100242
+    - 400242
+    Jack_iK:lPinkie1C:
+    - 100244
+    - 400244
+    Jack_iK:lPinkie1CG:
+    - 100246
+    - 400246
+    Jack_iK:lRing3J:
+    - 100248
+    - 400248
+    Jack_iK:lPinkie2J:
+    - 100250
+    - 400250
+    Jack_iK:lRing1J:
+    - 100252
+    - 400252
+    Jack_iK:lRingTipJ:
+    - 100254
+    - 400254
+    Jack_iK:lMiddle3J:
+    - 100256
+    - 400256
+    Jack_iK:lRing2J:
+    - 100258
+    - 400258
+    Jack_iK:lMiddle1J:
+    - 100260
+    - 400260
+    Jack_iK:lMiddleTipJ:
+    - 100262
+    - 400262
+    Jack_iK:lIndex3J:
+    - 100264
+    - 400264
+    Jack_iK:lMiddle2J:
+    - 100266
+    - 400266
+    Jack_iK:lThumbTipJ:
+    - 100268
+    - 400268
+    Jack_iK:lIndexTipJ:
+    - 100270
+    - 400270
+    Jack_iK:lThumb2J:
+    - 100272
+    - 400272
+    Jack_iK:lIndex2J:
+    - 100274
+    - 400274
+    Jack_iK:rIndex3CG:
+    - 100276
+    - 400276
+    Jack_iK:rThumb1CG:
+    - 100278
+    - 400278
+    Jack_iK:rIndex1C:
+    - 100280
+    - 400280
+    Jack_iK:rIndex2CG:
+    - 100282
+    - 400282
+    Jack_iK:rMiddle2C:
+    - 100284
+    - 400284
+    Jack_iK:rIndex3C:
+    - 100286
+    - 400286
+    naveitem1:
+    - 100288
+    - 400288
+    - 3300034
+    - 2300034
+    pCylinder1:
+    - 100290
+    - 400290
+    - 3300036
+    - 2300036
+    naveitem:
+    - 100292
+    - 400292
+    - 3300038
+    - 2300038
+    naveitem3:
+    - 100294
+    - 400294
+    - 3300040
+    - 2300040
+    naveitem2:
+    - 100296
+    - 400296
+    - 3300042
+    - 2300042
+    itens_nave:pCube17:
+    - 100298
+    - 400298
+    - 3300044
+    - 2300044
+    naveitem5:
+    - 100300
+    - 400300
+    - 3300046
+    - 2300046
+    naveitem4:
+    - 100302
+    - 400302
+    - 3300048
+    - 2300048
+    naveitem6:
+    - 100304
+    - 400304
+    - 3300050
+    - 2300050
+    Jack_iK:lAnkleJ:
+    - 100306
+    - 400306
+    Jack_iK:lToeJ:
+    - 100308
+    - 400308
+    Jack_iK:MainHipJ:
+    - 100310
+    - 400310
+    Jack_iK:lHipJ:
+    - 100312
+    - 400312
+    Jack_iK:lKneeJ:
+    - 100314
+    - 400314
+    Jack_iK:rPinkie2J:
+    - 100316
+    - 400316
+    Jack_iK:rPinkie3J:
+    - 100318
+    - 400318
+    Jack_iK:rPinkieTipJ:
+    - 100320
+    - 400320
+    Jack_iK:rRingTipJ:
+    - 100322
+    - 400322
+    Jack_iK:rThumb2CG:
+    - 100324
+    - 400324
+    Jack_iK:rThumb1C:
+    - 100326
+    - 400326
+    Jack_iK:rThumb2C:
+    - 100328
+    - 400328
+    Jack_iK:rIndex2C:
+    - 100330
+    - 400330
+    Jack_iK:rThumb3C:
+    - 100332
+    - 400332
+    Jack_iK:rThumb3CG:
+    - 100334
+    - 400334
+    Jack_iK:rMiddle3C:
+    - 100336
+    - 400336
+    Jack_iK:rRing3C:
+    - 100338
+    - 400338
+    Jack_iK:rMiddle1C:
+    - 100340
+    - 400340
+    Jack_iK:rRing1CG:
+    - 100342
+    - 400342
+    Jack_iK:rRing2C:
+    - 100344
+    - 400344
+    Jack_iK:rRing2CG:
+    - 100346
+    - 400346
+    Jack_iK:DSN_lElbowParentUpG:
+    - 100348
+    - 400348
+    Jack_iK:DSN_rKneeParentUpG:
+    - 100350
+    - 400350
+    NAVE:
+    - 100352
+    - 400352
+    Jack_iK:DSN_rElbowParentUpG:
+    - 100354
+    - 400354
+    Jack_iK:pPlane1:
+    - 100356
+    - 400356
+    - 13700000
+    Jack_iK:MainC:
+    - 100358
+    - 400358
+    Jack_iK:polySurface6:
+    - 100360
+    - 400360
+    - 13700002
+    Jack_iK:polySurface1:
+    - 100362
+    - 400362
+    - 13700004
+    Jack_iK:oculos_orelha:polySurface2:
+    - 100364
+    - 400364
+    - 13700006
+    Jack_iK:pCube2:
+    - 100366
+    - 400366
+    - 13700008
+    Jack_iK:oculos:
+    - 100368
+    - 400368
+    Jack_iK:corpo:
+    - 100370
+    - 400370
+    Jack_iK:pCylinder1:
+    - 100372
+    - 400372
+    - 13700010
+    Jack_iK:oculos_orelha:polySurface3:
+    - 100374
+    - 400374
+    - 13700012
+    Jack_iK:celha:
+    - 100376
+    - 400376
+    - 13700014
+    Jack_iK:pCube1:
+    - 100378
+    - 400378
+    - 13700016
+    Jack_iK:orelha:
+    - 100380
+    - 400380
+    - 13700018
+    Jack_iK:pSphere5:
+    - 100382
+    - 400382
+    - 13700020
+    Jack_iK:olho_esq:
+    - 100384
+    - 400384
+    - 13700022
+    Jack_iK:hair:
+    - 100386
+    - 400386
+    - 13700024
+    Jack_iK:Head:
+    - 100388
+    - 400388
+    Jack_iK:pSphere4:
+    - 100390
+    - 400390
+    - 13700026
+    Jack_iK:JackGambino:
+    - 100392
+    - 400392
+    Jack_iK:pSphere1:
+    - 100394
+    - 400394
+    - 13700028
+    Jack_iK:lElbowIKC:
+    - 100396
+    - 400396
+    Jack_iK:lWristFKCG:
+    - 100398
+    - 400398
+    Jack_iK:lArmSwitchC:
+    - 100400
+    - 400400
+    Jack_iK:lWristIKCG:
+    - 100402
+    - 400402
+    Jack_iK:lThumb2C:
+    - 100404
+    - 400404
+    Jack_iK:lElbowIKCG:
+    - 100406
+    - 400406
+    Jack_iK:lThumb3CG:
+    - 100408
+    - 400408
+    Jack_iK:lArmSwitchCG:
+    - 100410
+    - 400410
+    Jack_iK:lThumb1CG:
+    - 100412
+    - 400412
+    Jack_iK:lThumb2CG:
+    - 100414
+    - 400414
+    Jack_iK:lThumb3C:
+    - 100416
+    - 400416
+    Jack_iK:JawTipJ:
+    - 100418
+    - 400418
+    Jack_iK:NeckJ:
+    - 100420
+    - 400420
+    Jack_iK:HeadTipJ:
+    - 100422
+    - 400422
+    Jack_iK:HeadJ:
+    - 100424
+    - 400424
+    Jack_iK:lIndex1J:
+    - 100426
+    - 400426
+    Jack_iK:lWristJ:
+    - 100428
+    - 400428
+    Jack_iK:lThumb3J:
+    - 100430
+    - 400430
+    Jack_iK:lElbowJ:
+    - 100432
+    - 400432
+    Jack_iK:lThumb1J:
+    - 100434
+    - 400434
+    Jack_iK:lClavicleJ:
+    - 100436
+    - 400436
+    Jack_iK:lForearmJ:
+    - 100438
+    - 400438
+    Jack_iK:JawJ:
+    - 100440
+    - 400440
+    Jack_iK:lShoulderJ:
+    - 100442
+    - 400442
+    Jack_iK:Spine03J:
+    - 100444
+    - 400444
+    Jack_iK:rEyeJ:
+    - 100446
+    - 400446
+    Jack_iK:lEyeJ:
+    - 100448
+    - 400448
+    Jack_iK:rPinkie2C:
+    - 100450
+    - 400450
+    Jack_iK:rRing3CG:
+    - 100452
+    - 400452
+    Jack_iK:rPinkie3C:
+    - 100454
+    - 400454
+    Jack_iK:rRing1C:
+    - 100456
+    - 400456
+    Jack_iK:rMiddle3CG:
+    - 100458
+    - 400458
+    Jack_iK:rIndex1CG:
+    - 100460
+    - 400460
+    Jack_iK:rMiddle1CG:
+    - 100462
+    - 400462
+    Jack_iK:rMiddle2CG:
+    - 100464
+    - 400464
+    Jack_iK:rThumb1J:
+    - 100466
+    - 400466
+    Jack_iK:lPinkie3J:
+    - 100468
+    - 400468
+    Jack_iK:rShoulderJ:
+    - 100470
+    - 400470
+    Jack_iK:rForearmJ:
+    - 100472
+    - 400472
+    Jack_iK:rIndex2J:
+    - 100474
+    - 400474
+    Jack_iK:rThumb2J:
+    - 100476
+    - 400476
+    Jack_iK:rThumbTipJ:
+    - 100478
+    - 400478
+    Jack_iK:rElbowJ:
+    - 100480
+    - 400480
+    Jack_iK:rWristJ:
+    - 100482
+    - 400482
+    itens_nave:pCube6:
+    - 100484
+    - 400484
+    - 3300052
+    - 2300052
+    itens_nave:pCube3:
+    - 100486
+    - 400486
+    - 3300054
+    - 2300054
+    Jack_iK:lBallJ:
+    - 100488
+    - 400488
+    Jack_iK:rHipJ:
+    - 100490
+    - 400490
+    Jack_iK:rAnkleJ:
+    - 100492
+    - 400492
+    //RootNode:
+    - 100494
+    - 400494
+    - 11100000
+    Jack_iK:Spine01J:
+    - 100496
+    - 400496
+    Jack_iK:Spine04J:
+    - 100498
+    - 400498
+    Jack_iK:ROOTFKC:
+    - 100500
+    - 400500
+    Jack_iK:Spine02J:
+    - 100502
+    - 400502
+    Jack_iK:MainHipC:
+    - 100504
+    - 400504
+    Jack_iK:ROOTJ:
+    - 100506
+    - 400506
+    Jack_iK:rToeJIK:
+    - 100508
+    - 400508
+    Jack_iK:ROOTFKCG:
+    - 100510
+    - 400510
+    Jack_iK:rAnkleJIK:
+    - 100512
+    - 400512
+    Jack_iK:MainHipCG:
+    - 100514
+    - 400514
+    Jack_iK:rHipJIK:
+    - 100516
+    - 400516
+    Jack_iK:rBallJIK:
+    - 100518
+    - 400518
+    Jack_iK:rBallJFK:
+    - 100520
+    - 400520
+    Jack_iK:rKneeJIK:
+    - 100522
+    - 400522
+    Jack_iK:rKneeJFK:
+    - 100524
+    - 400524
+    Jack_iK:rToeJFK:
+    - 100526
+    - 400526
+    Jack_iK:rLegIKFKG:
+    - 100528
+    - 400528
+    Jack_iK:rAnkleJFK:
+    - 100530
+    - 400530
+    Jack_iK:lBallJIK:
+    - 100532
+    - 400532
+    Jack_iK:rHipJFK:
+    - 100534
+    - 400534
+    Jack_iK:lKneeJIK:
+    - 100536
+    - 400536
+    Jack_iK:lToeJIK:
+    - 100538
+    - 400538
+    Jack_iK:lToeJFK:
+    - 100540
+    - 400540
+    Jack_iK:lAnkleJIK:
+    - 100542
+    - 400542
+    Jack_iK:lAnkleJFK:
+    - 100544
+    - 400544
+    Jack_iK:lHipJIK:
+    - 100546
+    - 400546
+    Jack_iK:lHipJFK:
+    - 100548
+    - 400548
+    Jack_iK:lBallJFK:
+    - 100550
+    - 400550
+    Jack_iK:rWristJFK:
+    - 100552
+    - 400552
+    Jack_iK:lKneeJFK:
+    - 100554
+    - 400554
+    Jack_iK:rElbowJIK:
+    - 100556
+    - 400556
+    Jack_iK:lLegIKFKG:
+    - 100558
+    - 400558
+    Jack_iK:rWristJIK:
+    - 100560
+    - 400560
+    Jack_iK:rElbowJFK:
+    - 100562
+    - 400562
+    Jack_iK:lShoulderJIK:
+    - 100564
+    - 400564
+    Jack_iK:rArmIKFKG:
+    - 100566
+    - 400566
+    Jack_iK:lElbowJFK:
+    - 100568
+    - 400568
+    Jack_iK:lElbowJIK:
+    - 100570
+    - 400570
+    Jack_iK:lArmIKFKG:
+    - 100572
+    - 400572
+    Jack_iK:lWristJFK:
+    - 100574
+    - 400574
+    Jack_iK:Spine02FKCG:
+    - 100576
+    - 400576
+    Jack_iK:lShoulderJFK:
+    - 100578
+    - 400578
+    Jack_iK:Spine03FKCG:
+    - 100580
+    - 400580
+    Jack_iK:Spine02FKC:
+    - 100582
+    - 400582
+    Jack_iK:Spine04FKCG:
+    - 100584
+    - 400584
+    Jack_iK:Spine03FKC:
+    - 100586
+    - 400586
+    Jack_iK:NeckCG:
+    - 100588
+    - 400588
+    Jack_iK:Spine04FKC:
+    - 100590
+    - 400590
+    Jack_iK:Spine01FKCG:
+    - 100592
+    - 400592
+    Jack_iK:NeckC:
+    - 100594
+    - 400594
+    Jack_iK:HeadCG:
+    - 100596
+    - 400596
+    Jack_iK:Spine01FKC:
+    - 100598
+    - 400598
+    Jack_iK:JawCG:
+    - 100600
+    - 400600
+    Jack_iK:HeadC:
+    - 100602
+    - 400602
+    Jack_iK:rEyeAimC:
+    - 100604
+    - 400604
+    Jack_iK:JawC:
+    - 100606
+    - 400606
+    Jack_iK:EyeAimCG:
+    - 100608
+    - 400608
+    Jack_iK:lEyeAimC:
+    - 100610
+    - 400610
+    Jack_iK:lClavicleCG:
+    - 100612
+    - 400612
+    Jack_iK:EyeAimC:
+    - 100614
+    - 400614
+    Jack_iK:lShoulderFKCG:
+    - 100616
+    - 400616
+    Jack_iK:lClavicleC:
+    - 100618
+    - 400618
+    Jack_iK:lWristFKC:
+    - 100620
+    - 400620
+    Jack_iK:lShoulderFKC:
+    - 100622
+    - 400622
+    Jack_iK:lWristIKC:
+    - 100624
+    - 400624
+    Jack_iK:lElbowFKC:
+    - 100626
+    - 400626
+    Jack_iK:lElbowFKCG:
+    - 100628
+    - 400628
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Jack_iK:pSphere1
+    4300002: Jack_iK:olho_esq
+    4300004: Jack_iK:pSphere4
+    4300006: Jack_iK:orelha
+    4300008: Jack_iK:hair
+    4300010: Jack_iK:celha
+    4300012: Jack_iK:pSphere5
+    4300014: Jack_iK:pCylinder1
+    4300016: Jack_iK:pCube1
+    4300018: Jack_iK:oculos_orelha:polySurface3
+    4300020: Jack_iK:oculos_orelha:polySurface2
+    4300022: Jack_iK:polySurface6
+    4300024: Jack_iK:pCube2
+    4300026: Jack_iK:pPlane1
+    4300028: Jack_iK:polySurface1
+    4300030: naveitem11
+    4300032: naveitem10
+    4300034: naveitem9
+    4300036: naveitem8
+    4300038: itens_nave:pCube2
+    4300040: itens_nave:pCube3
+    4300042: itens_nave:pCube4
+    4300044: itens_nave:pCube5
+    4300046: itens_nave:pCube6
+    4300048: itens_nave:pCube7
+    4300050: itens_nave:pCube8
+    4300052: itens_nave:pCube9
+    4300054: itens_nave:pCube10
+    4300056: itens_nave:pCube11
+    4300058: itens_nave:pCube12
+    4300060: itens_nave:pCube13
+    4300062: itens_nave:pCube14
+    4300064: itens_nave:pCube15
+    4300066: itens_nave:pCube16
+    4300068: itens_nave:pCube17
+    4300070: naveitem6
+    4300072: naveitem5
+    4300074: naveitem4
+    4300076: naveitem3
+    4300078: naveitem2
+    4300080: naveitem1
+    4300082: naveitem
+    4300084: pCylinder1
+    7400000: Take 001 //// PlayerTwo

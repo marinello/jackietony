@@ -1,0 +1,181 @@
+fileFormatVersion: 1
+guid: 37c2435752848bc4da412bd093dd6011
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    Head1.004:
+    - 100000
+    - 400000
+    Head:
+    - 100002
+    - 400002
+    - 13700000
+    Head1.003:
+    - 100004
+    - 400004
+    Head1.002:
+    - 100006
+    - 400006
+    Head1.001:
+    - 100008
+    - 400008
+    Body12:
+    - 100010
+    - 400010
+    - 13700002
+    Body02:
+    - 100012
+    - 400012
+    - 13700004
+    Spine40:
+    - 100014
+    - 400014
+    Body14:
+    - 100016
+    - 400016
+    - 13700006
+    Head1:
+    - 100018
+    - 400018
+    Spine20:
+    - 100020
+    - 400020
+    Spine10:
+    - 100022
+    - 400022
+    Body16:
+    - 100024
+    - 400024
+    - 13700008
+    Spine50.007:
+    - 100026
+    - 400026
+    Spine50.003:
+    - 100028
+    - 400028
+    Spine50.006:
+    - 100030
+    - 400030
+    Armature:
+    - 100032
+    - 400032
+    Spine50.004:
+    - 100034
+    - 400034
+    Body08:
+    - 100036
+    - 400036
+    - 13700010
+    Eye_Right:
+    - 100038
+    - 400038
+    - 13700012
+    Spine50:
+    - 100040
+    - 400040
+    Spine50.001:
+    - 100042
+    - 400042
+    Spine50.005:
+    - 100044
+    - 400044
+    Body15:
+    - 100046
+    - 400046
+    - 13700014
+    Body01:
+    - 100048
+    - 400048
+    - 13700016
+    Spine50.002:
+    - 100050
+    - 400050
+    Spine30:
+    - 100052
+    - 400052
+    Body10:
+    - 100054
+    - 400054
+    - 13700018
+    Body13:
+    - 100056
+    - 400056
+    - 13700020
+    Eye_Left:
+    - 100058
+    - 400058
+    - 13700022
+    Body03:
+    - 100060
+    - 400060
+    - 13700024
+    Body06:
+    - 100062
+    - 400062
+    - 13700026
+    Body07:
+    - 100064
+    - 400064
+    - 13700028
+    Body04:
+    - 100066
+    - 400066
+    - 13700030
+    Body05:
+    - 100068
+    - 400068
+    - 13700032
+    Body09:
+    - 100070
+    - 400070
+    - 13700034
+    Body11:
+    - 100072
+    - 400072
+    - 13700036
+    //RootNode:
+    - 100074
+    - 400074
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Eye_Right
+    4300002: Body08
+    4300004: Body07
+    4300006: Body06
+    4300008: Body05
+    4300010: Body04
+    4300012: Body15
+    4300014: Body14
+    4300016: Body13
+    4300018: Body12
+    4300020: Body11
+    4300022: Body10
+    4300024: Body09
+    4300026: Body03
+    4300028: Body02
+    4300030: Eye_Left
+    4300032: Head
+    4300034: Body16
+    4300036: Body01
+    7400000: Default Take //// WormFire

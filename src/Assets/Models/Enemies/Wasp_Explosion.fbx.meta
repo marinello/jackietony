@@ -1,0 +1,109 @@
+fileFormatVersion: 1
+guid: 7de3eb3b904ffac4f9418561e7a660b7
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 1
+    splitAnimations: 1
+  nodeInfo:
+    Head.001:
+    - 100000
+    - 400000
+    Right_Eye:
+    - 100002
+    - 400002
+    - 13700000
+    Arm1_2.l:
+    - 100004
+    - 400004
+    Head:
+    - 100006
+    - 400006
+    - 13700002
+    Arm2_1.r:
+    - 100008
+    - 400008
+    Arm1_1.r:
+    - 100010
+    - 400010
+    Armature:
+    - 100012
+    - 400012
+    Head.004:
+    - 100014
+    - 400014
+    Head.002:
+    - 100016
+    - 400016
+    Arm1_2.r:
+    - 100018
+    - 400018
+    //RootNode:
+    - 100020
+    - 400020
+    - 11100000
+    Spine3:
+    - 100022
+    - 400022
+    Arm2_1.l:
+    - 100024
+    - 400024
+    Head_0:
+    - 100026
+    - 400026
+    master:
+    - 100028
+    - 400028
+    Arm2_2.r:
+    - 100030
+    - 400030
+    Left_Eye:
+    - 100032
+    - 400032
+    - 13700004
+    Spine1:
+    - 100034
+    - 400034
+    Spine2:
+    - 100036
+    - 400036
+    Arm1_1.l:
+    - 100038
+    - 400038
+    Arm2_2.l:
+    - 100040
+    - 400040
+    Spine4:
+    - 100042
+    - 400042
+    Body:
+    - 100044
+    - 400044
+    - 13700006
+    Eyes:
+    - 100046
+    - 400046
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Head
+    4300006: Body
+    7400000: Default Take //// Wasp_Explosion

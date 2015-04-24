@@ -1,0 +1,526 @@
+fileFormatVersion: 1
+guid: e8f8d14efd6a74d5a92ef6d63f5acdc3
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      idle:
+        firstFrame: 1
+        lastFrame: 150
+        loop: 1
+        wrapMode: 2
+      attack:
+        firstFrame: 151
+        lastFrame: 206
+        loop: 0
+        wrapMode: 1
+      death:
+        firstFrame: 210
+        lastFrame: 250
+        loop: 0
+        wrapMode: 1
+  nodeInfo:
+    Dr_Seamus_rindo:tooth_down:
+    - 100000
+    - 400000
+    - 13700000
+    joint21 1:
+    - 100002
+    - 400002
+    joint35:
+    - 100004
+    - 400004
+    joint22:
+    - 100006
+    - 400006
+    joint4:
+    - 100008
+    - 400008
+    joint36:
+    - 100010
+    - 400010
+    MOSCAO:
+    - 100012
+    - 400012
+    joint34:
+    - 100014
+    - 400014
+    joint6:
+    - 100016
+    - 400016
+    Dr_Seamus_rindo:lRing3J:
+    - 100018
+    - 400018
+    Dr_Seamus_rindo:celhas:
+    - 100020
+    - 400020
+    - 13700002
+    Dr_Seamus_rindo:tooth_up:
+    - 100022
+    - 400022
+    - 13700004
+    Dr_Seamus_rindo:NeckJ:
+    - 100024
+    - 400024
+    Dr_Seamus_rindo:lPinkie2J:
+    - 100026
+    - 400026
+    Dr_Seamus_rindo:rThumb3J:
+    - 100028
+    - 400028
+    moscachefe2:
+    - 100030
+    - 400030
+    - 13700006
+    moscachefe:
+    - 100032
+    - 400032
+    - 13700008
+    Dr_Seamus_rindo:lClavicleJ:
+    - 100034
+    - 400034
+    moscachefe15:
+    - 100036
+    - 400036
+    - 13700010
+    joint13:
+    - 100038
+    - 400038
+    Dr_Seamus_rindo:lThumb3J:
+    - 100040
+    - 400040
+    Dr_Seamus_rindo:rPinkie2J:
+    - 100042
+    - 400042
+    Dr_Seamus_rindo:lPinkie3J:
+    - 100044
+    - 400044
+    Dr_Seamus_rindo:rWristJ:
+    - 100046
+    - 400046
+    joint10:
+    - 100048
+    - 400048
+    joint32:
+    - 100050
+    - 400050
+    joint7:
+    - 100052
+    - 400052
+    joint9:
+    - 100054
+    - 400054
+    joint8:
+    - 100056
+    - 400056
+    Dr_Seamus_rindo:rKneeJ:
+    - 100058
+    - 400058
+    Dr_Seamus_rindo:lThumb1J:
+    - 100060
+    - 400060
+    Dr_Seamus_rindo:Spine03J:
+    - 100062
+    - 400062
+    Dr_Seamus_rindo:rRing3J:
+    - 100064
+    - 400064
+    Dr_Seamus_rindo:body:
+    - 100066
+    - 400066
+    - 13700012
+    moscachefe5:
+    - 100068
+    - 400068
+    - 13700014
+    Dr_Seamus_rindo:rMiddleTipJ:
+    - 100070
+    - 400070
+    Dr_Seamus_rindo:lWristJ:
+    - 100072
+    - 400072
+    Dr_Seamus_rindo:rElbowJ:
+    - 100074
+    - 400074
+    Dr_Seamus_rindo:lRing2J:
+    - 100076
+    - 400076
+    Dr_Seamus_rindo:HeadTipJ:
+    - 100078
+    - 400078
+    Dr_Seamus_rindo:legs:
+    - 100080
+    - 400080
+    - 13700016
+    //RootNode:
+    - 100082
+    - 400082
+    - 11100000
+    Dr_Seamus_rindo:rIndex2J:
+    - 100084
+    - 400084
+    Dr_Seamus_rindo:rIndexTipJ:
+    - 100086
+    - 400086
+    Dr_Seamus_rindo:lPinkieTipJ:
+    - 100088
+    - 400088
+    Dr_Seamus_rindo:rPinkie1J:
+    - 100090
+    - 400090
+    Dr_Seamus_rindo:rForearmJ:
+    - 100092
+    - 400092
+    moscachefe18:
+    - 100094
+    - 400094
+    - 13700018
+    Dr_Seamus_rindo:lMiddle2J:
+    - 100096
+    - 400096
+    Dr_Seamus_rindo:ROOTFKC:
+    - 100098
+    - 400098
+    Dr_Seamus_rindo:rToeJ:
+    - 100100
+    - 400100
+    Dr_Seamus_rindo:MainC:
+    - 100102
+    - 400102
+    Dr_Seamus_rindo:ROOTFKCG:
+    - 100104
+    - 400104
+    Dr_Seamus_rindo:Spine04J:
+    - 100106
+    - 400106
+    Dr_Seamus_rindo:lRing1J:
+    - 100108
+    - 400108
+    moscachefe3:
+    - 100110
+    - 400110
+    - 13700020
+    Dr_Seamus_rindo:lHipJ:
+    - 100112
+    - 400112
+    Dr_Seamus_rindo:lThumbTipJ:
+    - 100114
+    - 400114
+    Dr_Seamus_rindo:rThumbTipJ:
+    - 100116
+    - 400116
+    Dr_Seamus_rindo:hair1:
+    - 100118
+    - 400118
+    - 13700022
+    Dr_Seamus_rindo:rIndex3J:
+    - 100120
+    - 400120
+    Dr_Seamus_rindo:rThumb1J:
+    - 100122
+    - 400122
+    Dr_Seamus_rindo:lKneeJ:
+    - 100124
+    - 400124
+    Dr_Seamus_rindo:lMiddle1J:
+    - 100126
+    - 400126
+    joint23:
+    - 100128
+    - 400128
+    moscachefe13:
+    - 100130
+    - 400130
+    - 13700024
+    Dr_Seamus_rindo:relha:
+    - 100132
+    - 400132
+    - 13700026
+    moscachefe4:
+    - 100134
+    - 400134
+    - 13700028
+    Dr_Seamus_rindo:rHipJ:
+    - 100136
+    - 400136
+    Dr_Seamus_rindo:lBallJ:
+    - 100138
+    - 400138
+    Dr_Seamus_rindo:rShoulderJ:
+    - 100140
+    - 400140
+    Dr_Seamus_rindo:lToeJ:
+    - 100142
+    - 400142
+    Dr_Seamus_rindo:glasses:
+    - 100144
+    - 400144
+    - 13700030
+    joint12:
+    - 100146
+    - 400146
+    Dr_Seamus_rindo:lForearmJ:
+    - 100148
+    - 400148
+    Dr_Seamus_rindo:rMiddle2J:
+    - 100150
+    - 400150
+    joint25:
+    - 100152
+    - 400152
+    Dr_Seamus_rindo:rMiddle1J:
+    - 100154
+    - 400154
+    Dr_Seamus_rindo:lThumb2J:
+    - 100156
+    - 400156
+    Dr_Seamus_rindo:lIndexTipJ:
+    - 100158
+    - 400158
+    Dr_Seamus_rindo:rClavicleJ:
+    - 100160
+    - 400160
+    Dr_Seamus_rindo:MainHipJ:
+    - 100162
+    - 400162
+    Dr_Seamus_rindo:Dr:
+    - 100164
+    - 400164
+    joint27:
+    - 100166
+    - 400166
+    Dr_Seamus_rindo:rRingTipJ:
+    - 100168
+    - 400168
+    Mosca_Chefe_base:
+    - 100170
+    - 400170
+    Dr_Seamus_rindo:rThumb2J:
+    - 100172
+    - 400172
+    Dr_Seamus_rindo:lPinkie1J:
+    - 100174
+    - 400174
+    Dr_Seamus_rindo:lIndex2J:
+    - 100176
+    - 400176
+    Dr_Seamus_rindo:HeadJ:
+    - 100178
+    - 400178
+    moscachefe8:
+    - 100180
+    - 400180
+    - 13700032
+    Dr_Seamus_rindo:JawJ:
+    - 100182
+    - 400182
+    moscachefe6:
+    - 100184
+    - 400184
+    - 13700034
+    Dr_Seamus_rindo:Spine02J:
+    - 100186
+    - 400186
+    Dr_Seamus_rindo:lIndex3J:
+    - 100188
+    - 400188
+    Dr_Seamus_rindo:JawTipJ:
+    - 100190
+    - 400190
+    Dr_Seamus_rindo:face:
+    - 100192
+    - 400192
+    - 13700036
+    moscachefe16:
+    - 100194
+    - 400194
+    - 13700038
+    Dr_Seamus_rindo:rAnkleJ:
+    - 100196
+    - 400196
+    moscachefe9:
+    - 100198
+    - 400198
+    - 13700040
+    Dr_Seamus_rindo:ROOTJ:
+    - 100200
+    - 400200
+    Dr_Seamus_rindo:rPinkieTipJ:
+    - 100202
+    - 400202
+    Dr_Seamus_rindo:rIndex1J:
+    - 100204
+    - 400204
+    joint11:
+    - 100206
+    - 400206
+    moscachefe17:
+    - 100208
+    - 400208
+    - 13700042
+    Dr_Seamus_rindo:rRing1J:
+    - 100210
+    - 400210
+    moscachefe10:
+    - 100212
+    - 400212
+    - 13700044
+    Dr_Seamus_rindo:rRing2J:
+    - 100214
+    - 400214
+    Dr_Seamus_rindo:lMiddle3J:
+    - 100216
+    - 400216
+    Dr_Seamus_rindo:rBallJ:
+    - 100218
+    - 400218
+    Dr_Seamus_rindo:hair2:
+    - 100220
+    - 400220
+    - 13700046
+    Dr_Seamus_rindo:lShoulderJ:
+    - 100222
+    - 400222
+    moscachefe14:
+    - 100224
+    - 400224
+    - 13700048
+    moscachefe7:
+    - 100226
+    - 400226
+    - 13700050
+    Dr_Seamus_rindo:Spine01J:
+    - 100228
+    - 400228
+    Dr_Seamus_rindo:lRingTipJ:
+    - 100230
+    - 400230
+    Dr_Seamus_rindo:rPinkie3J:
+    - 100232
+    - 400232
+    joint30:
+    - 100234
+    - 400234
+    joint33:
+    - 100236
+    - 400236
+    joint21:
+    - 100238
+    - 400238
+    joint31:
+    - 100240
+    - 400240
+    joint19:
+    - 100242
+    - 400242
+    joint29:
+    - 100244
+    - 400244
+    joint28:
+    - 100246
+    - 400246
+    Dr_Seamus_rindo:lIndex1J:
+    - 100248
+    - 400248
+    moscachefe1:
+    - 100250
+    - 400250
+    - 13700052
+    Dr_Seamus_rindo:lMiddleTipJ:
+    - 100252
+    - 400252
+    Dr_Seamus_rindo:rMiddle3J:
+    - 100254
+    - 400254
+    joint26:
+    - 100256
+    - 400256
+    moscachefe12:
+    - 100258
+    - 400258
+    - 13700054
+    joint24:
+    - 100260
+    - 400260
+    joint5:
+    - 100262
+    - 400262
+    joint3:
+    - 100264
+    - 400264
+    joint2:
+    - 100266
+    - 400266
+    Dr_Seamus_rindo:lAnkleJ:
+    - 100268
+    - 400268
+    moscachefe11:
+    - 100270
+    - 400270
+    - 13700056
+    Dr_Seamus_rindo:lElbowJ:
+    - 100272
+    - 400272
+    joint20 1:
+    - 100274
+    - 400274
+    joint20:
+    - 100276
+    - 400276
+    joint37:
+    - 100278
+    - 400278
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: moscachefe
+    4300002: moscachefe1
+    4300004: moscachefe2
+    4300006: moscachefe3
+    4300008: moscachefe4
+    4300010: moscachefe5
+    4300012: moscachefe6
+    4300014: moscachefe7
+    4300016: moscachefe8
+    4300018: moscachefe9
+    4300020: moscachefe10
+    4300022: moscachefe11
+    4300024: moscachefe12
+    4300026: moscachefe13
+    4300028: moscachefe14
+    4300030: moscachefe15
+    4300032: moscachefe16
+    4300034: moscachefe17
+    4300036: moscachefe18
+    4300038: Dr_Seamus_rindo:body
+    4300040: Dr_Seamus_rindo:face
+    4300042: Dr_Seamus_rindo:celhas
+    4300044: Dr_Seamus_rindo:relha
+    4300046: Dr_Seamus_rindo:glasses
+    4300048: Dr_Seamus_rindo:hair1
+    4300050: Dr_Seamus_rindo:hair2
+    4300052: Dr_Seamus_rindo:legs
+    4300054: Dr_Seamus_rindo:tooth_up
+    4300056: Dr_Seamus_rindo:tooth_down
+    7400000: Mosca_chefe_Seamus //// Mosca_Chefe
+    7400002: idle //// Mosca_Chefe
+    7400004: attack //// Mosca_Chefe
+    7400006: death //// Mosca_Chefe

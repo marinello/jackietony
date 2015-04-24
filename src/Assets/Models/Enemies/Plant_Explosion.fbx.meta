@@ -1,0 +1,129 @@
+fileFormatVersion: 1
+guid: d755fa2608bd5934bb38f6094f94259e
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 1
+    splitAnimations: 1
+  nodeInfo:
+    Arm_2.l:
+    - 100000
+    - 400000
+    Spine1:
+    - 100002
+    - 400002
+    Armature:
+    - 100004
+    - 400004
+    Lamp:
+    - 100006
+    - 400006
+    Body:
+    - 100008
+    - 400008
+    - 13700000
+    Spine10:
+    - 100010
+    - 400010
+    Head:
+    - 100012
+    - 400012
+    Arm_1.l:
+    - 100014
+    - 400014
+    Leg_2.l:
+    - 100016
+    - 400016
+    Arm_1.r:
+    - 100018
+    - 400018
+    Spine8:
+    - 100020
+    - 400020
+    Spine7:
+    - 100022
+    - 400022
+    Leg_2.r:
+    - 100024
+    - 400024
+    Arm_3.l:
+    - 100026
+    - 400026
+    Arm_3.r:
+    - 100028
+    - 400028
+    //RootNode:
+    - 100030
+    - 400030
+    - 11100000
+    Spine9:
+    - 100032
+    - 400032
+    Leg_3.r:
+    - 100034
+    - 400034
+    Right_Eye:
+    - 100036
+    - 400036
+    - 13700002
+    Left_Eye:
+    - 100038
+    - 400038
+    - 13700004
+    Head.001:
+    - 100040
+    - 400040
+    Leg_1.r:
+    - 100042
+    - 400042
+    Spine10.001:
+    - 100044
+    - 400044
+    Arm_2.r:
+    - 100046
+    - 400046
+    Leg_3.l:
+    - 100048
+    - 400048
+    Leg_1.l:
+    - 100050
+    - 400050
+    Spine6:
+    - 100052
+    - 400052
+    Spine5:
+    - 100054
+    - 400054
+    Spine4:
+    - 100056
+    - 400056
+    Spine3:
+    - 100058
+    - 400058
+    Spine2:
+    - 100060
+    - 400060
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Body
+    7400000: Default Take //// planta_explosion
+    7400002: Default Take //// Plant_Explosion

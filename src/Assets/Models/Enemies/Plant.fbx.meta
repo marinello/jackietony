@@ -1,0 +1,120 @@
+fileFormatVersion: 1
+guid: 4e1a4b4acd3a74066908a2b80b9b5ddd
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Leg_2.l:
+    - 100000
+    - 400000
+    Leg_3.r:
+    - 100002
+    - 400002
+    Leg_3.l:
+    - 100004
+    - 400004
+    Leg_1.r:
+    - 100006
+    - 400006
+    Leg_1.l:
+    - 100008
+    - 400008
+    Arm_2.l:
+    - 100010
+    - 400010
+    Leg_2.r:
+    - 100012
+    - 400012
+    Arm_3.r:
+    - 100014
+    - 400014
+    Arm_3.l:
+    - 100016
+    - 400016
+    Arm_1.r:
+    - 100018
+    - 400018
+    Arm_1.l:
+    - 100020
+    - 400020
+    Spine10:
+    - 100022
+    - 400022
+    Arm_2.r:
+    - 100024
+    - 400024
+    Spine8:
+    - 100026
+    - 400026
+    Head:
+    - 100028
+    - 400028
+    Spine6:
+    - 100030
+    - 400030
+    Spine9:
+    - 100032
+    - 400032
+    Spine4:
+    - 100034
+    - 400034
+    Spine7:
+    - 100036
+    - 400036
+    Spine2:
+    - 100038
+    - 400038
+    Spine5:
+    - 100040
+    - 400040
+    Armature:
+    - 100042
+    - 400042
+    Spine3:
+    - 100044
+    - 400044
+    Left_Eye:
+    - 100046
+    - 400046
+    - 13700000
+    Spine1:
+    - 100048
+    - 400048
+    //RootNode:
+    - 100050
+    - 400050
+    - 11100000
+    Body:
+    - 100052
+    - 400052
+    - 13700002
+    Right_Eye:
+    - 100054
+    - 400054
+    - 13700004
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Right_Eye
+    4300002: Left_Eye
+    4300004: Body
+    7400000: Look //// Plant
+    7400002: Shoot //// Plant

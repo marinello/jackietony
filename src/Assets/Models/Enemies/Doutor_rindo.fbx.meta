@@ -1,0 +1,304 @@
+fileFormatVersion: 1
+guid: 04134880bd14a445a85cf6084e7e9b85
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    Spine02J:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    Spine01J:
+    - 100004
+    - 400004
+    lWristJ:
+    - 100006
+    - 400006
+    rPinkie2J:
+    - 100008
+    - 400008
+    NeckJ:
+    - 100010
+    - 400010
+    rAnkleJ:
+    - 100012
+    - 400012
+    lShoulderJ:
+    - 100014
+    - 400014
+    rIndexTipJ:
+    - 100016
+    - 400016
+    glasses:
+    - 100018
+    - 400018
+    - 13700000
+    lAnkleJ:
+    - 100020
+    - 400020
+    lElbowJ:
+    - 100022
+    - 400022
+    lRingTipJ:
+    - 100024
+    - 400024
+    rPinkie1J:
+    - 100026
+    - 400026
+    lThumbTipJ:
+    - 100028
+    - 400028
+    rToeJ:
+    - 100030
+    - 400030
+    lMiddle3J:
+    - 100032
+    - 400032
+    ROOTFKCG:
+    - 100034
+    - 400034
+    lHipJ:
+    - 100036
+    - 400036
+    legs:
+    - 100038
+    - 400038
+    - 13700002
+    ROOTJ:
+    - 100040
+    - 400040
+    face:
+    - 100042
+    - 400042
+    - 13700004
+    body:
+    - 100044
+    - 400044
+    - 13700006
+    rIndex1J:
+    - 100046
+    - 400046
+    HeadTipJ:
+    - 100048
+    - 400048
+    lForearmJ:
+    - 100050
+    - 400050
+    rThumb3J:
+    - 100052
+    - 400052
+    rMiddle2J:
+    - 100054
+    - 400054
+    MainHipJ:
+    - 100056
+    - 400056
+    rMiddle1J:
+    - 100058
+    - 400058
+    celhas:
+    - 100060
+    - 400060
+    - 13700008
+    rWristJ:
+    - 100062
+    - 400062
+    lThumb3J:
+    - 100064
+    - 400064
+    rClavicleJ:
+    - 100066
+    - 400066
+    rRing1J:
+    - 100068
+    - 400068
+    tooth_down:
+    - 100070
+    - 400070
+    - 13700010
+    hair1:
+    - 100072
+    - 400072
+    - 13700012
+    JawTipJ:
+    - 100074
+    - 400074
+    Spine03J:
+    - 100076
+    - 400076
+    lIndex1J:
+    - 100078
+    - 400078
+    tooth_up:
+    - 100080
+    - 400080
+    - 13700014
+    lThumb2J:
+    - 100082
+    - 400082
+    rHipJ:
+    - 100084
+    - 400084
+    Dr:
+    - 100086
+    - 400086
+    rThumbTipJ:
+    - 100088
+    - 400088
+    hair2:
+    - 100090
+    - 400090
+    - 13700016
+    rIndex3J:
+    - 100092
+    - 400092
+    rShoulderJ:
+    - 100094
+    - 400094
+    rPinkie3J:
+    - 100096
+    - 400096
+    lPinkie3J:
+    - 100098
+    - 400098
+    rRingTipJ:
+    - 100100
+    - 400100
+    rRing2J:
+    - 100102
+    - 400102
+    lIndex3J:
+    - 100104
+    - 400104
+    JawJ:
+    - 100106
+    - 400106
+    rForearmJ:
+    - 100108
+    - 400108
+    lToeJ:
+    - 100110
+    - 400110
+    rMiddleTipJ:
+    - 100112
+    - 400112
+    lIndex2J:
+    - 100114
+    - 400114
+    rThumb2J:
+    - 100116
+    - 400116
+    rMiddle3J:
+    - 100118
+    - 400118
+    relha:
+    - 100120
+    - 400120
+    - 13700018
+    lRing3J:
+    - 100122
+    - 400122
+    rRing3J:
+    - 100124
+    - 400124
+    lPinkieTipJ:
+    - 100126
+    - 400126
+    HeadJ:
+    - 100128
+    - 400128
+    lPinkie2J:
+    - 100130
+    - 400130
+    lPinkie1J:
+    - 100132
+    - 400132
+    lIndexTipJ:
+    - 100134
+    - 400134
+    rKneeJ:
+    - 100136
+    - 400136
+    lKneeJ:
+    - 100138
+    - 400138
+    rIndex2J:
+    - 100140
+    - 400140
+    lRing1J:
+    - 100142
+    - 400142
+    lThumb1J:
+    - 100144
+    - 400144
+    lMiddle1J:
+    - 100146
+    - 400146
+    lMiddleTipJ:
+    - 100148
+    - 400148
+    ROOTFKC:
+    - 100150
+    - 400150
+    rBallJ:
+    - 100152
+    - 400152
+    rElbowJ:
+    - 100154
+    - 400154
+    lMiddle2J:
+    - 100156
+    - 400156
+    rThumb1J:
+    - 100158
+    - 400158
+    lClavicleJ:
+    - 100160
+    - 400160
+    lBallJ:
+    - 100162
+    - 400162
+    lRing2J:
+    - 100164
+    - 400164
+    Spine04J:
+    - 100166
+    - 400166
+    rPinkieTipJ:
+    - 100168
+    - 400168
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: body
+    4300002: face
+    4300004: celhas
+    4300006: relha
+    4300008: glasses
+    4300010: hair1
+    4300012: hair2
+    4300014: legs
+    4300016: tooth_up
+    4300018: tooth_down
+    7400000: Dr_Seamus_rindo //// Doutor_rindo
